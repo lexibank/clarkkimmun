@@ -1,2 +1,2 @@
 # clarkkimmun
-Kim Mun in Lao and Vietnam
+Kim Mun in Laos and Vietnam
