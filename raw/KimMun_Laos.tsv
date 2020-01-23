@@ -293,9 +293,9 @@ ID	English	Luang Nam Tha, Laos                                                  
 292	friend	pɛw³⁵	277a	People	People	
 293	friend	lo³³toj²¹	277b	People	People	
 294	name	bu¹³	278	People	People	
-295	village	gjaŋ³⁴¹	279	Home	Home	
-296	road, path	kjaw³³	280	Home	Home	
-297	boat	da:ŋ¹¹	281	Home	Home	
+295	village	gjaŋ³⁴¹	279	Home	Town	
+296	road, path	kjaw³³	280	Home	Town	
+297	boat	da:ŋ¹¹	281	Home	Town	
 298	house	pjaw³³	282	Home	Home	
 299	door	kjɛŋ³¹	283	Home	Home	
 300	window	kjɛŋ³¹kjan⁵³	284	Home	Home	
@@ -476,49 +476,49 @@ ID	English	Luang Nam Tha, Laos                                                  
 475	to be near	θat²¹	454	Dimensions	Dimensions	
 476	this	ne³³	455	Dimensions	Direction	
 477	that	wa:³³	456	Dimensions	Direction	
-478	black	kja⁵³	457	Appearance	Descriptions	
-479	white	pɛ²¹	458	Appearance	Descriptions	
-480	red	θi³⁵	459	Appearance	Descriptions	
-481	green	mɛŋ⁵³	460	Appearance	Descriptions	
-482	yellow	wa:ŋ³¹	461	Appearance	Descriptions	
-483	to be dirty	klu³¹	462	Appearance	Descriptions	
-484	to be new	saŋ³⁵	463	Appearance	Descriptions	
-485	to be old	lu³³ȵaŋ⁵³	464	Appearance	Descriptions	
-486	to be dark	ȡam²¹	465	Appearance	Descriptions	
-487	to be bright	gwaŋ⁵³daŋ³⁵	466	Appearance	Descriptions	
-488	to be sweet	ka:m⁵³	467	Taste/Feel	Descriptions	
-489	to be sour	θuj³⁵	468	Taste/Feel	Descriptions	
-490	to be bitter	im⁵³	469	Taste/Feel	Descriptions	
-491	to be spicy, hot	bja:t³¹	470	Taste/Feel	Descriptions	
-492	to be rotten	-------	471	Taste/Feel	Descriptions	
-493	to be ripe	-------	472	Taste/Feel	Descriptions	
-494	to be dry	ga:j³⁵	473	Taste/Feel	Descriptions	
-495	to be wet	dɔn⁵³	474	Taste/Feel	Descriptions	
-496	to be hot	kjom⁵³	475	Taste/Feel	Descriptions	
-497	to be cold	nam¹³	476	Taste/Feel	Descriptions	
-498	to be sharp	gjaj²¹	477	Taste/Feel	Descriptions	
-499	to be blunt	plun¹³	478	Taste/Feel	Descriptions	
-500	to be heavy	ni¹¹	479	Taste/Feel	Descriptions	
-501	to be hard	ȵɛŋ³¹	480	Taste/Feel	Descriptions	
-502	to be smooth	ðɛŋ³³ðo²¹	481	Taste/Feel	Descriptions	
-503	to be fast	kan³³	482	Other Qualities	Descriptions	
-504	to be slow	man¹¹	483	Other Qualities	Descriptions	
-505	to be strong	ȵɛŋ³³ga:ŋ³¹	484a	Other Qualities	Descriptions	
-506	to be strong	kjoŋ³³paŋ³⁵	484b	Other Qualities	Descriptions	
-507	to be weak	də.maj³³nup³⁵	485	Other Qualities	Descriptions	
-508	to be blind	məj²¹bu¹¹	486	Other Qualities	Descriptions	
-509	to be deaf	mə.nɔm³¹duŋ⁵³	487	Other Qualities	Descriptions	
-510	bald	pje³³ȡa:n³³	488	Other Qualities	Descriptions	
-511	naked	ȶe³³blan⁵³	489	Other Qualities	Descriptions	
-512	to be good	gɔŋ¹³	490	Other Qualities	Descriptions	
-513	to be bad	ma³¹gɔŋ¹³	491	Other Qualities	Descriptions	
-514	to be correct	hɔ³³ȡo²¹	492	Other Qualities	Descriptions	
-515	to be wrong	pɛw³³	493	Other Qualities	Descriptions	
-516	warm	kjom⁵³bɔŋ³¹	494	Other Qualities	Descriptions	
-517	cool	θiŋ¹³	495	Other Qualities	Descriptions	
-518	difficult	ȶo²¹	496	Other Qualities	Descriptions	
-519	easy	həj¹¹	497	Other Qualities	Descriptions	
-520	loose	lɔm¹¹	498	Other Qualities	Descriptions	
+478	black	kja⁵³	457	Appearance	Description	
+479	white	pɛ²¹	458	Appearance	Description	
+480	red	θi³⁵	459	Appearance	Description	
+481	green	mɛŋ⁵³	460	Appearance	Description	
+482	yellow	wa:ŋ³¹	461	Appearance	Description	
+483	to be dirty	klu³¹	462	Appearance	Description	
+484	to be new	saŋ³⁵	463	Appearance	Description	
+485	to be old	lu³³ȵaŋ⁵³	464	Appearance	Description	
+486	to be dark	ȡam²¹	465	Appearance	Description	
+487	to be bright	gwaŋ⁵³daŋ³⁵	466	Appearance	Description	
+488	to be sweet	ka:m⁵³	467	Taste/Feel	Description	
+489	to be sour	θuj³⁵	468	Taste/Feel	Description	
+490	to be bitter	im⁵³	469	Taste/Feel	Description	
+491	to be spicy, hot	bja:t³¹	470	Taste/Feel	Description	
+492	to be rotten	-------	471	Taste/Feel	Description	
+493	to be ripe	-------	472	Taste/Feel	Description	
+494	to be dry	ga:j³⁵	473	Taste/Feel	Description	
+495	to be wet	dɔn⁵³	474	Taste/Feel	Description	
+496	to be hot	kjom⁵³	475	Taste/Feel	Description	
+497	to be cold	nam¹³	476	Taste/Feel	Description	
+498	to be sharp	gjaj²¹	477	Taste/Feel	Description	
+499	to be blunt	plun¹³	478	Taste/Feel	Description	
+500	to be heavy	ni¹¹	479	Taste/Feel	Description	
+501	to be hard	ȵɛŋ³¹	480	Taste/Feel	Description	
+502	to be smooth	ðɛŋ³³ðo²¹	481	Taste/Feel	Description	
+503	to be fast	kan³³	482	Other Qualities	Description	
+504	to be slow	man¹¹	483	Other Qualities	Description	
+505	to be strong	ȵɛŋ³³ga:ŋ³¹	484a	Other Qualities	Description	
+506	to be strong	kjoŋ³³paŋ³⁵	484b	Other Qualities	Description	
+507	to be weak	də.maj³³nup³⁵	485	Other Qualities	Description	
+508	to be blind	məj²¹bu¹¹	486	Other Qualities	Description	
+509	to be deaf	mə.nɔm³¹duŋ⁵³	487	Other Qualities	Description	
+510	bald	pje³³ȡa:n³³	488	Other Qualities	Description	
+511	naked	ȶe³³blan⁵³	489	Other Qualities	Description	
+512	to be good	gɔŋ¹³	490	Other Qualities	Description	
+513	to be bad	ma³¹gɔŋ¹³	491	Other Qualities	Description	
+514	to be correct	hɔ³³ȡo²¹	492	Other Qualities	Description	
+515	to be wrong	pɛw³³	493	Other Qualities	Description	
+516	warm	kjom⁵³bɔŋ³¹	494	Other Qualities	Description	
+517	cool	θiŋ¹³	495	Other Qualities	Description	
+518	difficult	ȶo²¹	496	Other Qualities	Description	
+519	easy	həj¹¹	497	Other Qualities	Description	
+520	loose	lɔm¹¹	498	Other Qualities	Description	
 521	when	toj³¹nɔj³⁵	499	Question Words	Question Words	
 522	where	jam⁵³ti¹³	500	Question Words	Question Words	
 523	who	man³⁵	501	Question Words	Question Words	
