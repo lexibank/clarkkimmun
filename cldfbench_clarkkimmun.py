@@ -94,7 +94,7 @@ class Dataset(MyDataset):
                  Latitude = lang['Latitude'],
                  Longitude = lang['Longitude']
              )
-            languages[lang['Name']]={'ID': lang['ID']}
+            languages[lang['Name']]=lang['ID']
         print(languages)
         # make concept dictionary
         concepts = {}
@@ -104,18 +104,19 @@ class Dataset(MyDataset):
                 ID=idx,
                 Name=concept['GLOSS'])
             concepts[concept['GLOSS']]=idx
+        print(concepts)
         # create forms
-        for cogid_, idx in progressbar(
-            enumerate(wl), desc = 'cldfify the data'):
-            cogid = cogid_ + 1
-            if wl[idx, "value"]:
+        for idx in progressbar(wl, desc = 'cldfify the data'):
+            cogid = idx
+            if wl[idx, "ipa"]:
+                #print(idx,wl[idx])
                 lex=args.writer.add_forms_from_value(
-                    Language_ID=languages[wl[idx, "doculect"]],
-                    Parameter_ID=concepts[wl[idx, "concept"]],
-                    Value=wl[idx, "ipa"]
-                )
+                     Language_ID=languages[wl[idx, "doculect"]],
+                     Parameter_ID=wl[idx, "concept"],
+                     Value=wl[idx, "ipa"]
+                 )
             # add cognate
                 args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID = cogid
-                )
+                     lexeme=lex,
+                     Cognateset_ID = cogid
+                 )
