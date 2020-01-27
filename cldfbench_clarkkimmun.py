@@ -1,6 +1,26 @@
+from collections import OrderedDict
 import pathlib
 
-from cldfbench import Dataset as BaseDataset
+import attr
+from clldutils.misc import slug
+from pylexibank import Concept, Language
+from pylexibank.dataset import Dataset as MyDataset
+from pylexibank.forms import FormSpec
+from pylexibank.util import progressbar
+
+@attr.s
+class CustomConcept(Concept):
+    Gloss_in_Source = attr.ib(default=None)
+
+@attr.s
+class CustomLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    Family = attr.ib(default="Hmong-Mien")
+    DataSource = attr.ib(default=None)
+    Name_in_Source = attr.ib(default=None)
+    Location = attr.ib(default=None)
+
 
 
 class Dataset(BaseDataset):
