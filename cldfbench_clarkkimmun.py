@@ -34,33 +34,7 @@ class Dataset(BaseDataset):
         """
         # add source
         args.writer.add_sources()
-        # read in raw data, Laos and Vietnam
-        # Laos = self.raw_dir.read_csv("KimMun_Laos.tsv",
-        #         dicts=True,
-        #         delimiter="\t")
-        # Vietnam = self.raw_dir.read_csv("KimMun_Vietnam.tsv",
-        #         dicts=True,
-        #         delimiter="\t")
-        # #combine data
-        # Data={0:['ID',
-        #         'concept',
-        #         'doculect',
-        #         'ipa']}
-        # i = 1
-        # for each in Laos:
-        #     Data[i] = ['Laos_'+each['ID'],
-        #                 each['English'],
-        #                 'Luang Nam Tha, Laos',
-        #                 each['Luang Nam Tha, Laos']]
-        #     i = i + 1
-        # v = len(Data)
-        # for each in Vietnam:
-        #     Data[v] = ['Vietnam_'+each['ID'],
-        #                each['English'],
-        #                'Lao Cai, Vietnam',
-        #                each['Lao Cai, Vietnam']]
-        #     v = v +1
-        # # convert to wordlist
+        # read in data
         mergedfile = self.raw_dir / 'KimMun_merged.tsv'
         wl = lingpy.Wordlist(mergedfile.as_posix())
         # add languages
@@ -74,12 +48,10 @@ class Dataset(BaseDataset):
                  Longitude = lang['Longitude']
              )
             languages[lang['Name']]=lang['ID']
-        #print(languages)
         # make concept dictionary
         concepts = {}
         for concept in self.concepts:
             idx = concept['ID']+'_'+slug(concept['GLOSS'])
-            #print(concept)
             args.writer.add_concept(
                 ID=idx,
                 Name=concept['GLOSS'],
@@ -89,7 +61,6 @@ class Dataset(BaseDataset):
             concepts[concept['GLOSS']]=idx
         # create forms
         for idx in progressbar(wl, desc = 'cldfify the data'):
-            #print(idx, wl[idx])
             cogid = idx
             if wl[idx, "concept"]:
                 for lex in args.writer.add_forms_from_value(
