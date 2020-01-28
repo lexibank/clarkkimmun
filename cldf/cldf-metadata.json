@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "3c32eb5"
+            "dc:created": "de35ce3"
         },
         {
             "rdf:type": "prov:Entity",
@@ -23,8 +23,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a"
+            "rdf:about": "https://github.com/clld/concepticon-data",
+            "dc:created": "v2.2.1a-90-ge34e420"
         },
         {
             "rdf:type": "prov:Entity",
@@ -246,14 +246,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Gloss_in_Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Doculect"
                     }
                 ],
                 "primaryKey": [
