@@ -5,20 +5,16 @@ import attr
 import lingpy
 from clldutils.misc import slug
 from pylexibank import Concept, Language
-from pylexibank.dataset import Dataset as MyDataset
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.forms import FormSpec
 from pylexibank.util import progressbar
 
 @attr.s
 class CustomLanguage(Language):
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
-    Family = attr.ib(default="Hmong-Mien")
     Country = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
-    ISO = attr.ib(default='mji')
 
-class Dataset(MyDataset):
+class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "clarkkimmun"
     language_class = CustomLanguage
@@ -30,17 +26,6 @@ class Dataset(MyDataset):
         first_form_only=True
     )
 
-    def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return super().cldf_specs()
-
-    def cmd_download(self, args):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
-
-        >>> self.raw_dir.download(url, fname)
-        """
-        pass
-
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
@@ -50,33 +35,34 @@ class Dataset(MyDataset):
         # add source
         args.writer.add_sources()
         # read in raw data, Laos and Vietnam
-        Laos = self.raw_dir.read_csv("KimMun_Laos.tsv",
-                dicts=True,
-                delimiter="\t")
-        Vietnam = self.raw_dir.read_csv("KimMun_Vietnam.tsv",
-                dicts=True,
-                delimiter="\t")
-        #combine data
-        Data={0:['ID',
-                'concept',
-                'doculect',
-                'ipa']}
-        i = 1
-        for each in Laos:
-            Data[i] = ['Laos_'+each['ID'],
-                        each['English'],
-                        'Luang Nam Tha, Laos',
-                        each['Luang Nam Tha, Laos']]
-            i = i + 1
-        v = len(Data)
-        for each in Vietnam:
-            Data[v] = ['Vietnam_'+each['ID'],
-                       each['English'],
-                       'Lao Cai, Vietnam',
-                       each['Lao Cai, Vietnam']]
-            v = v +1
-        # convert to wordlist
-        wl = lingpy.Wordlist(Data)
+        # Laos = self.raw_dir.read_csv("KimMun_Laos.tsv",
+        #         dicts=True,
+        #         delimiter="\t")
+        # Vietnam = self.raw_dir.read_csv("KimMun_Vietnam.tsv",
+        #         dicts=True,
+        #         delimiter="\t")
+        # #combine data
+        # Data={0:['ID',
+        #         'concept',
+        #         'doculect',
+        #         'ipa']}
+        # i = 1
+        # for each in Laos:
+        #     Data[i] = ['Laos_'+each['ID'],
+        #                 each['English'],
+        #                 'Luang Nam Tha, Laos',
+        #                 each['Luang Nam Tha, Laos']]
+        #     i = i + 1
+        # v = len(Data)
+        # for each in Vietnam:
+        #     Data[v] = ['Vietnam_'+each['ID'],
+        #                each['English'],
+        #                'Lao Cai, Vietnam',
+        #                each['Lao Cai, Vietnam']]
+        #     v = v +1
+        # # convert to wordlist
+        mergedfile = self.raw_dir / 'KimMun_merged.tsv'
+        wl = lingpy.Wordlist(mergedfile.as_posix())
         # add languages
         languages = {}
         for lang in self.languages:
