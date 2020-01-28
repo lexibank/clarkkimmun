@@ -81,13 +81,12 @@ class Dataset(MyDataset):
                        'Lao Cai, Vietnam',
                        each['Lao Cai, Vietnam']]
             v = v +1
-        #print(Data)
+        # convert to wordlist
         wl = lingpy.Wordlist(Data)
-        for idx, val in wl.iter_rows('ipa'):
-            print(idx, wl[idx])
+        # add languages
         languages = {}
         for lang in self.languages:
-            print(lang)
+            #print(lang)
             args.writer.add_language(
                  ID = lang['ID'],
                  Name = lang['Name'],
@@ -95,7 +94,7 @@ class Dataset(MyDataset):
                  Longitude = lang['Longitude']
              )
             languages[lang['Name']]=lang['ID']
-        print(languages)
+        #print(languages)
         # make concept dictionary
         concepts = {}
         for concept in self.concepts:
@@ -104,19 +103,18 @@ class Dataset(MyDataset):
                 ID=idx,
                 Name=concept['GLOSS'])
             concepts[concept['GLOSS']]=idx
-        print(concepts)
         # create forms
         for idx in progressbar(wl, desc = 'cldfify the data'):
+            #print(idx, wl[idx])
             cogid = idx
-            if wl[idx, "ipa"]:
-                #print(idx,wl[idx])
-                lex=args.writer.add_forms_from_value(
-                     Language_ID=languages[wl[idx, "doculect"]],
-                     Parameter_ID=wl[idx, "concept"],
-                     Value=wl[idx, "ipa"]
-                 )
-            # add cognate
-                args.writer.add_cognate(
-                     lexeme=lex,
-                     Cognateset_ID = cogid
-                 )
+            if wl[idx, "concept"]:
+                for lex in args.writer.add_forms_from_value(
+                    Language_ID=languages[wl[idx, "doculect"]],
+                    Parameter_ID=concepts[wl[idx, "concept"]],
+                    Value=wl[idx, "ipa"]
+                  ):
+            # # add cognate
+                    args.writer.add_cognate(
+                        lexeme=lex,
+                        Cognateset_ID = cogid
+                        )
