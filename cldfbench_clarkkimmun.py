@@ -10,11 +10,6 @@ from pylexibank.forms import FormSpec
 from pylexibank.util import progressbar
 
 @attr.s
-class CustomConcept(Concept):
-    Gloss_in_Source = attr.ib(default=None)
-    Doculect = attr.ib(default=None)
-
-@attr.s
 class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
@@ -27,7 +22,6 @@ class Dataset(MyDataset):
     dir = pathlib.Path(__file__).parent
     id = "clarkkimmun"
     language_class = CustomLanguage
-    concept_class = CustomConcept
     form_spec = FormSpec(
         missing_data=['', '-------'],
         separators=";/,",
@@ -99,9 +93,13 @@ class Dataset(MyDataset):
         concepts = {}
         for concept in self.concepts:
             idx = concept['ID']+'_'+slug(concept['GLOSS'])
+            #print(concept)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept['GLOSS'])
+                Name=concept['GLOSS'],
+                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
+                Concepticon_ID=concept['CONCEPTICON_ID']
+                )
             concepts[concept['GLOSS']]=idx
         # create forms
         for idx in progressbar(wl, desc = 'cldfify the data'):
