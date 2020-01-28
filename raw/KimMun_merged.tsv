@@ -1,0 +1,966 @@
+ID	Source_ID	CONCEPT	DOCULECT	IPA
+665	Vietnam_140	(corrupt file)	Lao Cai, Vietnam	------------
+943	Vietnam_418	1	Lao Cai, Vietnam	ɑ¹¹
+427	Laos_427	1 (person)	Luang Nam Tha, Laos	a³³la:n³¹
+446	Laos_446	1,000 (persons)	Luang Nam Tha, Laos	a³³tin³⁵la:n³¹
+449	Laos_449	1,000,000 (persons)	Luang Nam Tha, Laos	a³³lan³¹la:n³¹
+952	Vietnam_427	10	Lao Cai, Vietnam	sap¹¹
+436	Laos_436	10 (persons)	Luang Nam Tha, Laos	sap³¹la:n³¹
+447	Laos_447	10,000 (persons)	Luang Nam Tha, Laos	sap³¹tin³⁵la:n³¹
+964	Vietnam_439	100	Lao Cai, Vietnam	ap¹¹pɛ²¹⁴
+445	Laos_445	100 (persons)	Luang Nam Tha, Laos	a³³pe⁵³la:n³¹
+448	Laos_448	100,000 (persons)	Luang Nam Tha, Laos	a³³θe³³la:n³¹
+965	Vietnam_440	1000	Lao Cai, Vietnam	a¹¹tin⁵²
+953	Vietnam_428	11	Lao Cai, Vietnam	sap¹¹bjɛt³³
+954	Vietnam_429	12	Lao Cai, Vietnam	sap¹¹ȵe¹¹
+955	Vietnam_430	13	Lao Cai, Vietnam	sap¹¹sam²¹⁴
+956	Vietnam_431	14	Lao Cai, Vietnam	sap¹¹θe³⁵
+957	Vietnam_432	15	Lao Cai, Vietnam	sap¹¹ŋo³⁴¹
+958	Vietnam_433	16	Lao Cai, Vietnam	sap¹¹gu³³
+959	Vietnam_434	17	Lao Cai, Vietnam	sap¹¹kjɛt⁵²
+960	Vietnam_435	18	Lao Cai, Vietnam	sap¹¹pit³¹
+961	Vietnam_436	19	Lao Cai, Vietnam	sap¹¹ȶu⁴⁴
+944	Vietnam_419	2	Lao Cai, Vietnam	i³⁵
+428	Laos_428	2 (persons)	Luang Nam Tha, Laos	i³³la:n³¹
+962	Vietnam_437	20	Lao Cai, Vietnam	ni³³sap¹¹
+437	Laos_437	20 (persons)	Luang Nam Tha, Laos	ȵi³¹sap³¹la:n³¹
+963	Vietnam_438	21	Lao Cai, Vietnam	ni³³sap¹¹ȵe¹¹
+945	Vietnam_420	3	Lao Cai, Vietnam	po²¹⁴
+429	Laos_429	3 (persons)	Luang Nam Tha, Laos	pu⁵³la:n³¹
+438	Laos_438	30 (persons)	Luang Nam Tha, Laos	θam³³sap³¹la:n³¹
+946	Vietnam_421	4	Lao Cai, Vietnam	pje²¹⁴
+430	Laos_430	4 (persons)	Luang Nam Tha, Laos	pi⁵³la:n³¹
+439	Laos_439	40 (persons)	Luang Nam Tha, Laos	θe³³sap³¹la:n³¹
+947	Vietnam_422	5	Lao Cai, Vietnam	pja²¹⁴
+431	Laos_431	5 (persons)	Luang Nam Tha, Laos	pja⁵³la:n³¹
+440	Laos_440	50 (persons)	Luang Nam Tha, Laos	ŋo³⁴¹sap³¹la:n³¹
+948	Vietnam_423	6	Lao Cai, Vietnam	kjɔ²¹⁴
+432	Laos_432	6 (persons)	Luang Nam Tha, Laos	kjo⁵³la:n³¹
+441	Laos_441	60 (persons)	Luang Nam Tha, Laos	gu³¹sap³¹la:n³¹
+949	Vietnam_424	7	Lao Cai, Vietnam	ȵi³³
+433	Laos_433	7 (persons)	Luang Nam Tha, Laos	ȵi³¹la:n³¹
+442	Laos_442	70 (persons)	Luang Nam Tha, Laos	ȶɛt³⁵sap³¹la:n³¹
+950	Vietnam_425	8	Lao Cai, Vietnam	jɐt³³
+434	Laos_434	8 (persons)	Luang Nam Tha, Laos	jɛt³¹la:n³¹
+443	Laos_443	80 (persons)	Luang Nam Tha, Laos	pit⁵³sap³¹la:n³¹
+951	Vietnam_426	9	Lao Cai, Vietnam	du¹¹
+435	Laos_435	9 (persons)	Luang Nam Tha, Laos	du³³la:n³¹
+444	Laos_444	90 (persons)	Luang Nam Tha, Laos	ȶu³³sap³¹la:n³¹
+940	Vietnam_415	I	Lao Cai, Vietnam	ja²¹⁴
+268	Laos_268	I (1s)	Luang Nam Tha, Laos	ja⁵³
+856	Vietnam_331	above	Lao Cai, Vietnam	ȶɐj³³
+710	Vietnam_185	afternoon	Lao Cai, Vietnam	kaj³³ȡam³⁵
+855	Vietnam_330	alive	Lao Cai, Vietnam	saŋ³¹
+451	Laos_451	all	Luang Nam Tha, Laos	θɔŋ³³ȡu³⁴¹
+719	Vietnam_194	ancestor	Lao Cai, Vietnam	θɐm¹¹sɐw⁴⁴
+171	Laos_171	animal	Luang Nam Tha, Laos	θuŋ³⁵haw³³
+526	Vietnam_1	ant	Lao Cai, Vietnam	θɐw³³
+783	Vietnam_258	anvil	Lao Cai, Vietnam	-------
+99	Laos_99	apple	Luang Nam Tha, Laos	mak²¹pom³¹pjo³³
+581	Vietnam_56	arm	Lao Cai, Vietnam	pu.θe⁵²
+246	Laos_246	armpit	Luang Nam Tha, Laos	kə.ȡap³¹di³³
+746	Vietnam_221	artisan	Lao Cai, Vietnam	------------
+318	Laos_318	ashes	Luang Nam Tha, Laos	to³⁴¹sa:j¹¹
+787	Vietnam_262	ashes	Lao Cai, Vietnam	sɑj³³
+762	Vietnam_237	awl	Lao Cai, Vietnam	θun²¹⁴
+330	Laos_330	axe	Luang Nam Tha, Laos	po³³
+763	Vietnam_238	axe	Lao Cai, Vietnam	pɐw⁴⁴
+238	Laos_238	back	Luang Nam Tha, Laos	tan³³ka:n⁵³
+582	Vietnam_57	back	Lao Cai, Vietnam	kɐ.tan⁴⁴kaŋ²¹⁴
+854	Vietnam_329	bad	Lao Cai, Vietnam	ho³³
+764	Vietnam_239	bag	Lao Cai, Vietnam	ti³³
+510	Laos_510	bald	Luang Nam Tha, Laos	pje³³ȡa:n³³
+86	Laos_86	bamboo	Luang Nam Tha, Laos	la:w¹¹
+88	Laos_88	bamboo pole	Luang Nam Tha, Laos	law¹¹ȶe⁵³
+87	Laos_87	bamboo shoot	Luang Nam Tha, Laos	law¹¹bjaj²¹
+93	Laos_93	banana	Luang Nam Tha, Laos	kum³¹ȶaw³⁴¹
+666	Vietnam_141	banana	Lao Cai, Vietnam	kum¹¹ȶaw³⁴¹
+667	Vietnam_142	banana flower	Lao Cai, Vietnam	kɐ.ȡu²¹⁴
+668	Vietnam_143	banana leaf	Lao Cai, Vietnam	θiw¹¹nɔm³¹
+638	Vietnam_113	bank river	Lao Cai, Vietnam	wɐm²¹⁴sin³¹
+542	Vietnam_17	barking deer	Lao Cai, Vietnam	ȶuŋ²¹⁴
+333	Laos_333	basket	Luang Nam Tha, Laos	da:n⁵³
+765	Vietnam_240	basket i	Lao Cai, Vietnam	gjɑŋ¹¹mɑw³¹
+766	Vietnam_241	basket ri	Lao Cai, Vietnam	gjɐm³⁴¹
+767	Vietnam_242	basket wi	Lao Cai, Vietnam	sɑŋ⁵²
+527	Vietnam_2	bat	Lao Cai, Vietnam	klɐ.buj⁵²
+168	Laos_168	bean	Luang Nam Tha, Laos	tɔp³¹
+669	Vietnam_144	bean	Lao Cai, Vietnam	tɔp³³
+173	Laos_173	bear	Luang Nam Tha, Laos	kjap²¹
+528	Vietnam_3	bear	Lao Cai, Vietnam	kjɐp³³
+237	Laos_237	beard	Luang Nam Tha, Laos	ȡɛt²¹θɔm³⁵
+583	Vietnam_58	beard	Lao Cai, Vietnam	θɔm⁵²
+788	Vietnam_263	bed	Lao Cai, Vietnam	ȶo⁵²
+214	Laos_214	bee	Luang Nam Tha, Laos	məj³⁴¹
+529	Vietnam_4	bee	Lao Cai, Vietnam	mɐj³⁴¹muŋ⁴⁴
+584	Vietnam_59	belly	Lao Cai, Vietnam	ȵo³³
+853	Vietnam_328	below	Lao Cai, Vietnam	di⁴⁴
+92	Laos_92	betelnut	Luang Nam Tha, Laos	θɛn⁵³
+190	Laos_190	bird	Luang Nam Tha, Laos	nɔ²¹
+530	Vietnam_5	bird	Lao Cai, Vietnam	nɔ³³
+191	Laos_191	bird's nest	Luang Nam Tha, Laos	nɔ²¹gjaw³⁴¹
+852	Vietnam_327	bitter	Lao Cai, Vietnam	im²¹⁴
+478	Laos_478	black	Luang Nam Tha, Laos	kja⁵³
+851	Vietnam_326	black	Lao Cai, Vietnam	gja:²¹⁴
+124	Laos_124	black pepper	Luang Nam Tha, Laos	haw³¹θiw⁵³pjo³³
+304	Laos_304	blanket	Luang Nam Tha, Laos	θɔŋ³⁵
+789	Vietnam_264	blanket	Lao Cai, Vietnam	θɔŋ⁵²
+850	Vietnam_325	blind	Lao Cai, Vietnam	mɐj³³bu³³
+263	Laos_263	blood	Luang Nam Tha, Laos	sa:m¹¹
+585	Vietnam_60	blood	Lao Cai, Vietnam	θa:m³³
+750	Vietnam_225	blouse	Lao Cai, Vietnam	gjɐm⁴⁴
+297	Laos_297	boat	Luang Nam Tha, Laos	da:ŋ¹¹
+790	Vietnam_265	boat	Lao Cai, Vietnam	dɑŋ³³
+586	Vietnam_61	body	Lao Cai, Vietnam	θin⁵²
+632	Vietnam_107	boil/ulcer	Lao Cai, Vietnam	bew³⁴¹
+125	Laos_125	boiling water	Luang Nam Tha, Laos	wɔm⁵³vəj¹³
+258	Laos_258	bone	Luang Nam Tha, Laos	θuŋ³³
+587	Vietnam_62	bone	Lao Cai, Vietnam	θuŋ⁴⁴
+565	Vietnam_40	bore	Lao Cai, Vietnam	tuŋ³¹kɐw⁴⁴
+159	Laos_159	bottle	Luang Nam Tha, Laos	ȵɛw²¹
+155	Laos_155	bowl	Luang Nam Tha, Laos	wan³³
+768	Vietnam_243	bowl	Lao Cai, Vietnam	wɐn⁴⁴
+751	Vietnam_226	bracelet	Lao Cai, Vietnam	sɑm¹¹
+221	Laos_221	brain	Luang Nam Tha, Laos	pje³³le²¹
+588	Vietnam_63	brain	Lao Cai, Vietnam	pi⁴⁴le⁴⁴
+76	Laos_76	branch	Luang Nam Tha, Laos	gjaŋ³³gwa:³¹
+720	Vietnam_195	bride	Lao Cai, Vietnam	ȵɑm²¹⁴
+791	Vietnam_266	bridge	Lao Cai, Vietnam	ȶo¹¹
+12	Laos_12	bright	Luang Nam Tha, Laos	gwaŋ⁵³daŋ³⁵
+284	Laos_284	brother (elder of f)	Luang Nam Tha, Laos	pɛ⁵³
+285	Laos_285	brother (elder of m)	Luang Nam Tha, Laos	ȵaːm³³
+288	Laos_288	brother(younger of f)	Luang Nam Tha, Laos	jo³⁴¹
+289	Laos_289	brother(younger of m)	Luang Nam Tha, Laos	naw³⁴¹
+186	Laos_186	buffalo	Luang Nam Tha, Laos	ŋɔŋ³³bu¹¹
+531	Vietnam_6	buffalo	Lao Cai, Vietnam	ŋɔŋ¹¹
+589	Vietnam_64	butt	Lao Cai, Vietnam	kɐ.tlaj⁴⁴kɐ⁵²
+216	Laos_216	butterfly	Luang Nam Tha, Laos	pluŋ³¹blo³⁴¹
+250	Laos_250	buttocks	Luang Nam Tha, Laos	kə.da:j³³
+670	Vietnam_145	cabbage	Lao Cai, Vietnam	ȵe¹¹gjaj³⁵
+254	Laos_254	calf	Luang Nam Tha, Laos	θaw³³ȡiŋ³³
+320	Laos_320	candle	Luang Nam Tha, Laos	ȶo⁵³
+110	Laos_110	carrot	Luang Nam Tha, Laos	tə.bak²¹pjo³³
+780	Vietnam_255	carrying pole	Lao Cai, Vietnam	nɐ.muŋ⁵²
+181	Laos_181	cat	Luang Nam Tha, Laos	ma:w³¹
+182	Laos_182	cat	Luang Nam Tha, Laos	-------
+532	Vietnam_7	cat	Lao Cai, Vietnam	ma:w¹¹
+533	Vietnam_8	caterpillar	Lao Cai, Vietnam	buŋ³³blɐw³⁴¹
+60	Laos_60	cave	Luang Nam Tha, Laos	ȶɔ.bɛŋ³¹kɔt³⁵
+639	Vietnam_114	cave	Lao Cai, Vietnam	ȶɔ.bɛŋ³¹kɔt³⁵
+534	Vietnam_9	centipede	Lao Cai, Vietnam	θap⁵²
+792	Vietnam_267	charcoal	Lao Cai, Vietnam	tɐw³¹tɑn⁵²
+228	Laos_228	cheek	Luang Nam Tha, Laos	min³⁵uj⁵³
+590	Vietnam_65	chest	Lao Cai, Vietnam	kɐ.lap³¹
+197	Laos_197	chicken	Luang Nam Tha, Laos	ȶɐ⁵³
+537	Vietnam_12	chicken	Lao Cai, Vietnam	ȶɐj²¹⁴
+535	Vietnam_10	chicken cock	Lao Cai, Vietnam	ȶɐj²¹⁴kɔŋ³¹
+536	Vietnam_11	chicken hen	Lao Cai, Vietnam	⁣ȶɐj²¹⁴ȵɐj³⁴¹
+280	Laos_280	child	Luang Nam Tha, Laos	səj³³
+723	Vietnam_198	child	Lao Cai, Vietnam	mun¹¹sɐj⁴⁴
+671	Vietnam_146	chili pepper	Lao Cai, Vietnam	duŋ³³ma:t³³
+236	Laos_236	chin	Luang Nam Tha, Laos	klaŋ⁵³ŋam³⁴¹
+635	Vietnam_110	chin	Lao Cai, Vietnam	-------
+784	Vietnam_259	chisel	Lao Cai, Vietnam	-------
+157	Laos_157	chopsticks	Luang Nam Tha, Laos	ȶo²¹
+769	Vietnam_244	chopsticks	Lao Cai, Vietnam	ȶɐw³³
+128	Laos_128	cigarette	Luang Nam Tha, Laos	jin³⁵bja:t³¹
+63	Laos_63	cliff	Luang Nam Tha, Laos	gjaw⁵³bɛŋ¹³
+640	Vietnam_115	cliff	Lao Cai, Vietnam	gjaw²¹⁴pje³¹
+752	Vietnam_227	cloth	Lao Cai, Vietnam	buj³⁵
+306	Laos_306	clothing	Luang Nam Tha, Laos	guj⁵³
+753	Vietnam_228	clothing	Lao Cai, Vietnam	ŋuj²¹⁴kwɑ⁵²
+14	Laos_14	cloud	Luang Nam Tha, Laos	van¹³
+641	Vietnam_116	cloud	Lao Cai, Vietnam	vɐn¹³
+26	Laos_26	cloudy day	Luang Nam Tha, Laos	guŋ³¹naj³¹van¹³
+591	Vietnam_66	cockcmbi	Lao Cai, Vietnam	gɐn²¹⁴
+211	Laos_211	cockroach	Luang Nam Tha, Laos	bjan³⁴¹
+96	Laos_96	coconut	Luang Nam Tha, Laos	mak²¹paw³³pjo³³
+89	Laos_89	coconut tree	Luang Nam Tha, Laos	mak²¹paw³¹gjaŋ¹³
+322	Laos_322	coffin	Luang Nam Tha, Laos	bin³³
+672	Vietnam_147	cogongrass	Lao Cai, Vietnam	ga:n²¹⁴
+849	Vietnam_324	cold	Lao Cai, Vietnam	sɔŋ⁴⁴
+312	Laos_312	comb	Luang Nam Tha, Laos	ȶa⁵³
+754	Vietnam_229	comb	Lao Cai, Vietnam	ȶɑ²¹⁴
+517	Laos_517	cool	Luang Nam Tha, Laos	θiŋ¹³
+848	Vietnam_323	cool	Lao Cai, Vietnam	θiŋ³⁵
+793	Vietnam_268	coop	Lao Cai, Vietnam	ȶe²¹⁴ko⁵²
+642	Vietnam_117	copper	Lao Cai, Vietnam	tɔŋ¹¹
+673	Vietnam_148	corn	Lao Cai, Vietnam	buŋ³³mɐj³⁴¹
+592	Vietnam_67	corpse	Lao Cai, Vietnam	mun¹¹tɐj³³
+674	Vietnam_149	cotton	Lao Cai, Vietnam	buj³³min³¹
+153	Laos_153	cover	Luang Nam Tha, Laos	gaj¹³
+184	Laos_184	cow	Luang Nam Tha, Laos	ŋɔŋ³³wa:ŋ³¹
+538	Vietnam_13	cow/ox	Lao Cai, Vietnam	ŋɔ¹¹wa:ŋ¹¹
+539	Vietnam_14	crab	Lao Cai, Vietnam	kjɐm³⁵ȵaj²¹⁴
+540	Vietnam_15	cricket	Lao Cai, Vietnam	kjɛŋ²¹⁴kjo³¹
+203	Laos_203	crocodile	Luang Nam Tha, Laos	tu³³ȵe³⁴¹tu³³da:n³¹
+541	Vietnam_16	crow	Lao Cai, Vietnam	ku.a:³¹
+109	Laos_109	cucumber	Luang Nam Tha, Laos	kwa⁵³
+675	Vietnam_150	cucumber	Lao Cai, Vietnam	kwa²¹⁴kjo³¹
+160	Laos_160	cup	Luang Nam Tha, Laos	ȶɔk²¹
+135	Laos_135	cutting board	Luang Nam Tha, Laos	ȶum³¹ȡɛŋ³¹
+13	Laos_13	dark	Luang Nam Tha, Laos	ȡam²¹
+724	Vietnam_199	daughter	Lao Cai, Vietnam	mun¹¹sɑ⁵²
+747	Vietnam_222	daughter-in-law	Lao Cai, Vietnam	------------
+29	Laos_29	day	Luang Nam Tha, Laos	mə.nɔj³⁵ȶa:¹³
+711	Vietnam_186	day	Lao Cai, Vietnam	mɐ.nɔj⁵²ȶa:³⁵
+847	Vietnam_322	dead	Lao Cai, Vietnam	daj³³
+174	Laos_174	deer	Luang Nam Tha, Laos	ȶim³³ȡa:j³¹
+725	Vietnam_200	descendant	Lao Cai, Vietnam	se⁴⁴θun²¹⁴
+518	Laos_518	difficult	Luang Nam Tha, Laos	ȶo²¹
+156	Laos_156	dish	Luang Nam Tha, Laos	ba:n³¹
+643	Vietnam_118	ditch	Lao Cai, Vietnam	θin³⁵wɐm²¹⁴
+794	Vietnam_269	dock, boat	Lao Cai, Vietnam	bɐj¹¹
+178	Laos_178	dog	Luang Nam Tha, Laos	klu³³
+544	Vietnam_19	dog	Lao Cai, Vietnam	klu⁴⁴
+299	Laos_299	door	Luang Nam Tha, Laos	kjɛŋ³¹
+795	Vietnam_270	door	Lao Cai, Vietnam	kjɛŋ¹¹
+545	Vietnam_20	dragon	Lao Cai, Vietnam	kuŋ²¹⁴
+546	Vietnam_21	dragon fly	Lao Cai, Vietnam	kjɛŋ²¹⁴nuŋ⁴⁴
+707	Vietnam_182	dream	Lao Cai, Vietnam	be³⁵
+27	Laos_27	drought	Luang Nam Tha, Laos	guŋ⁵³ha:n³⁵
+846	Vietnam_321	dry	Lao Cai, Vietnam	gaj⁵²
+198	Laos_198	duck	Luang Nam Tha, Laos	a:p⁵³
+547	Vietnam_22	duck1	Lao Cai, Vietnam	a:p¹¹
+548	Vietnam_23	duck2	Lao Cai, Vietnam	-----------
+50	Laos_50	dust	Luang Nam Tha, Laos	ni³⁵buŋ³⁵
+549	Vietnam_24	eagle	Lao Cai, Vietnam	kla:ŋ⁴⁴
+229	Laos_229	ear	Luang Nam Tha, Laos	mə.nɔm³¹
+845	Vietnam_320	early	Lao Cai, Vietnam	gjo⁴⁴
+755	Vietnam_230	earring	Lao Cai, Vietnam	bin⁵²
+593	Vietnam_68	ears	Lao Cai, Vietnam	mɐ.nɔm¹¹
+644	Vietnam_119	earth	Lao Cai, Vietnam	ni⁵²
+48	Laos_48	earth, soil	Luang Nam Tha, Laos	ni³⁵
+61	Laos_61	earthquake	Luang Nam Tha, Laos	guŋ ³¹ni³⁵tɔŋ³⁴¹
+218	Laos_218	earthworm	Luang Nam Tha, Laos	duŋ³¹na:ŋ⁵³
+578	Vietnam_53	earthworm	Lao Cai, Vietnam	nuŋ¹¹naŋ²¹⁴
+35	Laos_35	east	Luang Nam Tha, Laos	tɔŋ⁵³fa:n¹³
+36	Laos_36	east	Luang Nam Tha, Laos	mə.nɔj³⁵sɛt³¹fa:n¹³
+519	Laos_519	easy	Luang Nam Tha, Laos	həj¹¹
+196	Laos_196	egg	Luang Nam Tha, Laos	kjaw¹³
+594	Vietnam_69	egg	Lao Cai, Vietnam	kjaw³⁵
+100	Laos_100	eggplant	Luang Nam Tha, Laos	kə.daŋ³³
+676	Vietnam_151	eggplant	Lao Cai, Vietnam	kɐ.taŋ⁴⁴
+245	Laos_245	elbow	Luang Nam Tha, Laos	θe³¹ȡɔŋ⁵³
+189	Laos_189	elephant	Luang Nam Tha, Laos	kjaŋ³⁴¹
+712	Vietnam_187	evening	Lao Cai, Vietnam	ȡa:m³³
+266	Laos_266	excrement	Luang Nam Tha, Laos	da:j³³
+598	Vietnam_73	excrement	Lao Cai, Vietnam	dɐj⁴⁴
+225	Laos_225	eye	Luang Nam Tha, Laos	məj²¹
+595	Vietnam_70	eye	Lao Cai, Vietnam	mɐj³³
+224	Laos_224	eyebrow	Luang Nam Tha, Laos	məj²¹jap³⁵pje⁵³
+596	Vietnam_71	eyebrows	Lao Cai, Vietnam	mɐj³³ma:j³¹
+226	Laos_226	eyelid	Luang Nam Tha, Laos	məj²¹dup²¹
+220	Laos_220	face	Luang Nam Tha, Laos	min³⁵
+597	Vietnam_72	face	Lao Cai, Vietnam	min⁵²
+844	Vietnam_319	far	Lao Cai, Vietnam	gɔ²¹⁴
+261	Laos_261	fat	Luang Nam Tha, Laos	məj³⁵pi³¹
+677	Vietnam_152	fat	Lao Cai, Vietnam	mɐj⁵²
+278	Laos_278	father	Luang Nam Tha, Laos	fa:³³
+726	Vietnam_201	father’s older brother	Lao Cai, Vietnam	pɛ²¹⁴
+727	Vietnam_202	father’s younger brother	Lao Cai, Vietnam	jo³⁴¹
+193	Laos_193	feather	Luang Nam Tha, Laos	nɔ²¹pje⁵³
+248	Laos_248	finger	Luang Nam Tha, Laos	pu³⁴¹dɔ⁵³
+599	Vietnam_74	finger	Lao Cai, Vietnam	pu.dɔ³¹
+249	Laos_249	fingernail	Luang Nam Tha, Laos	pu³⁴¹dɔ⁵³waj¹³
+600	Vietnam_75	fingernail	Lao Cai, Vietnam	pu.dɔ³¹waj³⁵
+317	Laos_317	fire	Luang Nam Tha, Laos	to³⁴¹
+770	Vietnam_245	fire	Lao Cai, Vietnam	tɐw³¹
+771	Vietnam_246	fire tongs	Lao Cai, Vietnam	pja⁴⁴
+796	Vietnam_271	firewood	Lao Cai, Vietnam	θɑŋ¹¹
+199	Laos_199	fish	Luang Nam Tha, Laos	bjaw³⁴¹
+550	Vietnam_25	fish	Lao Cai, Vietnam	bjaw³⁴¹
+772	Vietnam_247	fishnet	Lao Cai, Vietnam	lɛ³³
+843	Vietnam_318	fishy	Lao Cai, Vietnam	θe³³diŋ⁵²
+551	Vietnam_26	flea	Lao Cai, Vietnam	klɐ.muŋ⁵²
+260	Laos_260	flesh	Luang Nam Tha, Laos	a³³ȡa:j⁵³
+68	Laos_68	flood	Luang Nam Tha, Laos	wɔm⁵³ja:m¹³
+81	Laos_81	flower	Luang Nam Tha, Laos	gjaŋ³³fa:ŋ³¹
+678	Vietnam_153	flower	Lao Cai, Vietnam	faŋ¹¹
+215	Laos_215	fly	Luang Nam Tha, Laos	kjiŋ⁵³gjəm³⁵
+552	Vietnam_27	fly	Lao Cai, Vietnam	kjɛŋ²¹⁴gjɐm⁵²
+645	Vietnam_120	fog	Lao Cai, Vietnam	kja:³⁵
+256	Laos_256	foot	Luang Nam Tha, Laos	θaw¹³
+601	Vietnam_76	foot (surface)	Lao Cai, Vietnam	θaw³⁵pen⁴⁴
+223	Laos_223	forehead	Luang Nam Tha, Laos	min³⁵dup²¹
+74	Laos_74	forest	Luang Nam Tha, Laos	kim³¹
+646	Vietnam_121	forest	Lao Cai, Vietnam	kim¹¹
+842	Vietnam_317	fragrant	Lao Cai, Vietnam	daŋ²¹⁴
+292	Laos_292	friend	Luang Nam Tha, Laos	pɛw³⁵
+293	Laos_293	friend	Luang Nam Tha, Laos	lo³³toj²¹
+204	Laos_204	frog	Luang Nam Tha, Laos	ȶɛŋ³³
+553	Vietnam_28	frog	Lao Cai, Vietnam	ȶɛŋ⁴⁴
+82	Laos_82	fruit	Luang Nam Tha, Laos	gjaŋ³³pjo³³
+679	Vietnam_154	fruit	Lao Cai, Vietnam	pjo⁴⁴
+137	Laos_137	frying pan	Luang Nam Tha, Laos	ȶɛŋ³⁵
+841	Vietnam_316	full	Lao Cai, Vietnam	bɔŋ⁵²
+797	Vietnam_272	garden	Lao Cai, Vietnam	ȡin⁵²
+103	Laos_103	garlic	Luang Nam Tha, Laos	tun³⁵pje³³
+680	Vietnam_155	garlic	Lao Cai, Vietnam	tun⁵²
+384	Laos_384	ghost	Luang Nam Tha, Laos	ma:n¹¹
+102	Laos_102	ginger	Luang Nam Tha, Laos	θuŋ³⁵
+554	Vietnam_29	goat	Lao Cai, Vietnam	juŋ¹¹
+54	Laos_54	gold	Luang Nam Tha, Laos	səm⁵³
+647	Vietnam_122	gold	Lao Cai, Vietnam	sɐm²¹⁴
+840	Vietnam_315	good	Lao Cai, Vietnam	gɔŋ³³ve³⁴¹
+579	Vietnam_54	goose	Lao Cai, Vietnam	-------
+728	Vietnam_203	grandfather	Lao Cai, Vietnam	klɑw³⁴¹
+729	Vietnam_204	grandmother	Lao Cai, Vietnam	bo³⁴¹
+85	Laos_85	grass	Luang Nam Tha, Laos	ma:¹¹
+681	Vietnam_156	grass	Lao Cai, Vietnam	ma:³³
+555	Vietnam_30	grasshopper	Lao Cai, Vietnam	kjɛŋ²¹⁴bo³¹
+798	Vietnam_273	grave	Lao Cai, Vietnam	θo⁴⁴
+481	Laos_481	green	Luang Nam Tha, Laos	mɛŋ⁵³
+839	Vietnam_314	green	Lao Cai, Vietnam	mɛŋ²¹⁴
+112	Laos_112	green bean	Luang Nam Tha, Laos	tə.bwe³³miŋ⁵³
+730	Vietnam_205	groom	Lao Cai, Vietnam	lɑŋ¹¹
+731	Vietnam_206	guest	Lao Cai, Vietnam	ȶɛ⁵²
+235	Laos_235	gums	Luang Nam Tha, Laos	ȵa³¹lɔŋ³⁵
+23	Laos_23	hail	Luang Nam Tha, Laos	pjɔ²¹
+222	Laos_222	hair	Luang Nam Tha, Laos	pje³³doŋ⁵³
+602	Vietnam_77	hair of body	Lao Cai, Vietnam	pje²¹⁴
+603	Vietnam_78	hair of body2	Lao Cai, Vietnam	------------
+604	Vietnam_79	hair of head	Lao Cai, Vietnam	pi³³dɔŋ²¹⁴
+454	Laos_454	half a unit	Luang Nam Tha, Laos	a³³fa:n¹³
+328	Laos_328	hammer	Luang Nam Tha, Laos	ban³³ȡe⁵³
+773	Vietnam_248	hammer	Lao Cai, Vietnam	pɐw⁴⁴
+244	Laos_244	hand	Luang Nam Tha, Laos	pu³⁴¹
+605	Vietnam_80	hand	Lao Cai, Vietnam	pu.pen⁴⁴
+838	Vietnam_313	hard	Lao Cai, Vietnam	ȵɛŋ³³
+774	Vietnam_249	harrow	Lao Cai, Vietnam	tuŋ¹¹pa¹¹
+941	Vietnam_416	he	Lao Cai, Vietnam	nɐn¹¹
+270	Laos_270	he/she/it	Luang Nam Tha, Laos	θi⁵³
+271	Laos_271	he/she/it	Luang Nam Tha, Laos	mun³¹
+219	Laos_219	head	Luang Nam Tha, Laos	pje³³
+606	Vietnam_81	head	Lao Cai, Vietnam	pje⁴⁴
+240	Laos_240	heart	Luang Nam Tha, Laos	θim⁵³ta:w³¹
+607	Vietnam_82	heart	Lao Cai, Vietnam	θin²¹⁴taw³¹
+837	Vietnam_312	heavy	Lao Cai, Vietnam	ni³³
+257	Laos_257	heel	Luang Nam Tha, Laos	θaw³³ȡɛŋ⁵³
+636	Vietnam_111	heel	Lao Cai, Vietnam	-------
+836	Vietnam_311	high	Lao Cai, Vietnam	gjaŋ⁵²
+608	Vietnam_83	hip	Lao Cai, Vietnam	kɐ.tlaj⁴⁴tuj⁴⁴
+775	Vietnam_250	hoe	Lao Cai, Vietnam	ȵɛw²¹⁴
+65	Laos_65	hole	Luang Nam Tha, Laos	kɔt³⁵
+609	Vietnam_84	hoof	Lao Cai, Vietnam	θaw³⁵dɔ³¹waj³⁵
+43	Laos_43	horizon	Luang Nam Tha, Laos	guŋ³¹sin³¹
+187	Laos_187	horn	Luang Nam Tha, Laos	kjoŋ⁵³
+610	Vietnam_85	horn	Lao Cai, Vietnam	kjɔŋ²¹⁴
+556	Vietnam_31	horse	Lao Cai, Vietnam	ma³⁴¹
+732	Vietnam_207	host, owner	Lao Cai, Vietnam	pjɑw³¹mun³¹
+835	Vietnam_310	hot	Lao Cai, Vietnam	kjɔm²¹⁴
+298	Laos_298	house	Luang Nam Tha, Laos	pjaw³³
+799	Vietnam_274	house	Lao Cai, Vietnam	pjɑw⁴⁴
+201	Laos_201	house lizard	Luang Nam Tha, Laos	kə.dun³¹
+525	Laos_525	how many	Luang Nam Tha, Laos	bu³¹la:j³⁵
+281	Laos_281	husband	Luang Nam Tha, Laos	la:ŋ³¹
+733	Vietnam_208	husband	Lao Cai, Vietnam	fɑ⁴⁴
+66	Laos_66	ice	Luang Nam Tha, Laos	wɔm⁵³kat³¹
+682	Vietnam_157	indigo	Lao Cai, Vietnam	gam¹¹
+117	Laos_117	ingredients	Luang Nam Tha, Laos	aj³³jin³⁵ȶə.daj³³
+557	Vietnam_32	insect	Lao Cai, Vietnam	kjɛŋ²¹⁴
+834	Vietnam_309	inside	Lao Cai, Vietnam	gja³⁴¹
+611	Vietnam_86	intestine	Lao Cai, Vietnam	kla:ŋ¹¹
+243	Laos_243	intestines	Luang Nam Tha, Laos	kla:ŋ³¹
+57	Laos_57	iron	Luang Nam Tha, Laos	gja:³⁵
+648	Vietnam_123	iron	Lao Cai, Vietnam	gja:⁵²
+72	Laos_72	island	Luang Nam Tha, Laos	wɔm⁵³gjɛŋ⁵³
+253	Laos_253	knee	Luang Nam Tha, Laos	ni³⁵ȶoŋ⁵³
+325	Laos_325	knife	Luang Nam Tha, Laos	ȡu²¹ðɛm³¹
+776	Vietnam_251	knife	Lao Cai, Vietnam	ȡu³³
+73	Laos_73	lake	Luang Nam Tha, Laos	wɔm⁵³gap²¹
+833	Vietnam_308	late	Lao Cai, Vietnam	an³⁵
+80	Laos_80	leaf	Luang Nam Tha, Laos	nɔm³¹
+683	Vietnam_158	leaf	Lao Cai, Vietnam	nɔm¹¹
+558	Vietnam_33	leech, dry	Lao Cai, Vietnam	kjɐm²¹⁴
+559	Vietnam_34	leech, wet	Lao Cai, Vietnam	ma¹¹wa:ŋ¹¹
+832	Vietnam_307	left	Lao Cai, Vietnam	θaj³³bu³⁴¹
+471	Laos_471	left side	Luang Nam Tha, Laos	θaj³³fa:n¹³
+251	Laos_251	leg	Luang Nam Tha, Laos	θaw³³kla:ŋ⁵³
+612	Vietnam_87	leg	Lao Cai, Vietnam	θaw³⁵
+9	Laos_9	light	Luang Nam Tha, Laos	gwaŋ⁵³
+831	Vietnam_306	light weight	Lao Cai, Vietnam	so⁵²
+649	Vietnam_124	lightening	Lao Cai, Vietnam	buŋ³³bit³¹to⁵²
+17	Laos_17	lightning	Luang Nam Tha, Laos	buŋ²¹bit³¹to³⁴¹
+242	Laos_242	liver	Luang Nam Tha, Laos	gjan³⁵
+613	Vietnam_88	liver	Lao Cai, Vietnam	gjɐn⁵²
+560	Vietnam_35	lizard	Lao Cai, Vietnam	bɐ.koŋ¹¹sa:⁵²
+520	Laos_520	loose	Luang Nam Tha, Laos	lɔm¹¹
+208	Laos_208	louse (head)	Luang Nam Tha, Laos	-------
+209	Laos_209	louse (head)	Luang Nam Tha, Laos	θe¹¹
+561	Vietnam_36	louse, head	Lao Cai, Vietnam	θɐj³³
+734	Vietnam_209	lover	Lao Cai, Vietnam	mun¹¹ɔj³⁵
+830	Vietnam_305	low	Lao Cai, Vietnam	ha⁵²
+241	Laos_241	lungs	Luang Nam Tha, Laos	klum³⁵
+614	Vietnam_89	lungs	Lao Cai, Vietnam	klum⁵²
+276	Laos_276	man	Luang Nam Tha, Laos	mun³¹tɔn⁵³
+735	Vietnam_210	man	Lao Cai, Vietnam	mun¹¹fɑ⁴⁴
+95	Laos_95	mango	Luang Nam Tha, Laos	θin³¹dɔ³⁴¹pjo³³
+939	Vietnam_414	many	Lao Cai, Vietnam	duŋ³⁵
+777	Vietnam_252	masher	Lao Cai, Vietnam	kum³³so⁵²
+305	Laos_305	mat	Luang Nam Tha, Laos	tuŋ³¹tim²¹
+800	Vietnam_275	mat	Lao Cai, Vietnam	si³³
+335	Laos_335	matches	Luang Nam Tha, Laos	jaŋ⁵³hɔ³³
+379	Laos_379	medicine	Luang Nam Tha, Laos	maː¹¹
+684	Vietnam_159	medicine	Lao Cai, Vietnam	ma:³³
+685	Vietnam_160	melon	Lao Cai, Vietnam	kwa²¹⁴
+713	Vietnam_188	midday	Lao Cai, Vietnam	mɐ.nɔj⁵²ȶa:³⁵
+185	Laos_185	milk	Luang Nam Tha, Laos	nu³³
+615	Vietnam_90	milk	Lao Cai, Vietnam	nu⁴⁴
+175	Laos_175	monkey	Luang Nam Tha, Laos	du⁵³kuk³⁵
+562	Vietnam_37	monkey	Lao Cai, Vietnam	biŋ²¹⁴
+7	Laos_7	moon	Luang Nam Tha, Laos	la:³⁵
+714	Vietnam_189	moon	Lao Cai, Vietnam	la:⁴⁴
+30	Laos_30	morning	Luang Nam Tha, Laos	bu.dom⁵³tɔn¹³
+715	Vietnam_190	morning	Lao Cai, Vietnam	bɐ.tɔm²¹⁴gjo³¹
+213	Laos_213	mosquito	Luang Nam Tha, Laos	ȶim⁵³ȶa:j⁵³
+563	Vietnam_38	mosquito	Lao Cai, Vietnam	kjɛŋ²¹⁴
+703	Vietnam_178	moss	Lao Cai, Vietnam	------------
+279	Laos_279	mother	Luang Nam Tha, Laos	ȡi³⁴¹
+738	Vietnam_213	mother	Lao Cai, Vietnam	ȡi³⁴¹
+736	Vietnam_211	mother’s brother	Lao Cai, Vietnam	nɑw³⁴¹
+737	Vietnam_212	mother’s mother	Lao Cai, Vietnam	di⁴⁴
+739	Vietnam_214	mother’s sister	Lao Cai, Vietnam	ȶu¹¹
+59	Laos_59	mountain	Luang Nam Tha, Laos	ȶɔŋ⁵³
+650	Vietnam_125	mountain	Lao Cai, Vietnam	ȶɔŋ²¹⁴
+230	Laos_230	mouth	Luang Nam Tha, Laos	ȡɛt²¹
+616	Vietnam_91	mouth	Lao Cai, Vietnam	ȡɐt³³
+617	Vietnam_92	mucus	Lao Cai, Vietnam	blut³³
+49	Laos_49	mud	Luang Nam Tha, Laos	ni³⁵pam²¹
+651	Vietnam_126	mud	Lao Cai, Vietnam	pa:m³³
+90	Laos_90	mushroom	Luang Nam Tha, Laos	so⁵³
+686	Vietnam_161	mushroom	Lao Cai, Vietnam	so²¹⁴
+704	Vietnam_179	mustards	Lao Cai, Vietnam	------------
+511	Laos_511	naked	Luang Nam Tha, Laos	ȶe³³blan⁵³
+294	Laos_294	name	Luang Nam Tha, Laos	bu¹³
+708	Vietnam_183	name	Lao Cai, Vietnam	bu³⁵
+829	Vietnam_304	narrow	Lao Cai, Vietnam	it³³
+239	Laos_239	navel	Luang Nam Tha, Laos	ȵo¹¹dut⁵³kla:ŋ⁵³
+637	Vietnam_112	navel	Lao Cai, Vietnam	-------
+828	Vietnam_303	near	Lao Cai, Vietnam	θat³³
+618	Vietnam_93	neck	Lao Cai, Vietnam	kla:ŋ²¹⁴
+311	Laos_311	needle	Luang Nam Tha, Laos	θim³⁵
+756	Vietnam_231	needle	Lao Cai, Vietnam	θim⁵²
+619	Vietnam_94	nest	Lao Cai, Vietnam	gjaw³⁴¹
+827	Vietnam_302	new	Lao Cai, Vietnam	saŋ³³ȵaŋ³¹
+718	Vietnam_193	new year	Lao Cai, Vietnam	------------
+25	Laos_25	nice day, fine day	Luang Nam Tha, Laos	si³⁵gɔŋ¹³
+28	Laos_28	night	Luang Nam Tha, Laos	bə.ȡam²¹
+716	Vietnam_191	night	Lao Cai, Vietnam	ȡa:m³³
+31	Laos_31	noon	Luang Nam Tha, Laos	dum³¹nɔj³⁵
+39	Laos_39	north	Luang Nam Tha, Laos	pu³³fa:n¹³
+40	Laos_40	north	Luang Nam Tha, Laos	ȶa³¹le³⁵fa:n¹³
+227	Laos_227	nose	Luang Nam Tha, Laos	bu.ȶɔŋ⁵³
+620	Vietnam_95	nose	Lao Cai, Vietnam	pu.ȶɔŋ²¹⁴
+748	Vietnam_223	nung	Lao Cai, Vietnam	------------
+721	Vietnam_196	o. brother	Lao Cai, Vietnam	tɑ¹¹
+740	Vietnam_215	o. sister	Lao Cai, Vietnam	o³⁴¹
+119	Laos_119	oil	Luang Nam Tha, Laos	məj³⁵
+826	Vietnam_301	old	Lao Cai, Vietnam	lo³⁵ȵaŋ³¹
+115	Laos_115	onion	Luang Nam Tha, Laos	tɔŋ³³pɔŋ³³
+705	Vietnam_180	onion	Lao Cai, Vietnam	------------
+801	Vietnam_276	paddy	Lao Cai, Vietnam	giŋ³³lɔ⁵²
+247	Laos_247	palm	Luang Nam Tha, Laos	pu³⁴¹pin³³
+580	Vietnam_55	pangolin	Lao Cai, Vietnam	-------
+94	Laos_94	papaya	Luang Nam Tha, Laos	-------
+314	Laos_314	paper, cord	Luang Nam Tha, Laos	ȶe³³
+101	Laos_101	peanut	Luang Nam Tha, Laos	tə.bwe³³ni³⁵
+52	Laos_52	pebble	Luang Nam Tha, Laos	gjaw⁵³θaj⁵³ȵɔt³⁵
+167	Laos_167	peel	Luang Nam Tha, Laos	lut³⁵
+785	Vietnam_260	peg	Lao Cai, Vietnam	-------
+165	Laos_165	petals of a flower	Luang Nam Tha, Laos	ȵɛp⁵³
+183	Laos_183	pig	Luang Nam Tha, Laos	tuŋ³⁴¹
+564	Vietnam_39	pig	Lao Cai, Vietnam	tuŋ³¹
+567	Vietnam_42	pig sow	Lao Cai, Vietnam	tuŋ³¹kjan³⁵
+566	Vietnam_41	piglet	Lao Cai, Vietnam	tuŋ³¹kjɐn²¹⁴
+303	Laos_303	pillow	Luang Nam Tha, Laos	tuŋ³¹ȡɔm¹³
+802	Vietnam_277	pillow	Lao Cai, Vietnam	toŋ¹¹ȡɑm³⁵
+97	Laos_97	pineapple	Luang Nam Tha, Laos	dum³¹daw³⁴¹pjo³³
+778	Vietnam_253	plane	Lao Cai, Vietnam	tuŋ¹¹pɑw³³
+803	Vietnam_278	plot dry	Lao Cai, Vietnam	gjɑŋ³⁵
+779	Vietnam_254	plow	Lao Cai, Vietnam	tuŋ¹¹kjɑj¹¹
+706	Vietnam_181	pomelo	Lao Cai, Vietnam	------------
+652	Vietnam_127	pond	Lao Cai, Vietnam	bjaw³⁴¹kla:ŋ¹¹
+177	Laos_177	porcupine	Luang Nam Tha, Laos	dəj²¹
+691	Vietnam_166	porridge	Lao Cai, Vietnam	naŋ³¹su³⁵
+786	Vietnam_261	pot	Lao Cai, Vietnam	-------
+315	Laos_315	pot (cooking-)	Luang Nam Tha, Laos	mɔ³³
+106	Laos_106	potato	Luang Nam Tha, Laos	fə.laŋ⁵³doj³¹
+709	Vietnam_184	price	Lao Cai, Vietnam	pɐ.laj⁵²
+108	Laos_108	pumpkin	Luang Nam Tha, Laos	gjaŋ³³kwa:³³
+687	Vietnam_162	pumpkin	Lao Cai, Vietnam	kjɛŋ¹¹kwa²¹⁴waŋ³¹
+265	Laos_265	pus	Luang Nam Tha, Laos	saŋ³¹nuŋ²¹
+621	Vietnam_96	pus	Lao Cai, Vietnam	nuŋ³³
+176	Laos_176	rabbit	Luang Nam Tha, Laos	tu³⁵
+15	Laos_15	rain	Luang Nam Tha, Laos	buŋ²¹
+653	Vietnam_128	rain	Lao Cai, Vietnam	buŋ³³lu⁵²
+16	Laos_16	rainbow	Luang Nam Tha, Laos	guŋ³¹ga:ŋ¹³
+568	Vietnam_43	rat	Lao Cai, Vietnam	du²¹⁴
+825	Vietnam_300	raw	Lao Cai, Vietnam	a⁴⁴ŋim³⁴¹
+480	Laos_480	red	Luang Nam Tha, Laos	θi³⁵
+824	Vietnam_299	red	Lao Cai, Vietnam	θi⁵²
+259	Laos_259	rib	Luang Nam Tha, Laos	la ³¹tam³³θuŋ³³
+622	Vietnam_97	ribs	Lao Cai, Vietnam	ȵɔ¹¹tam⁴⁴θuŋ⁴⁴
+688	Vietnam_163	rice	Lao Cai, Vietnam	blaw¹¹
+689	Vietnam_164	rice glutinous	Lao Cai, Vietnam	me³³blɐt³³
+690	Vietnam_165	rice grilled	Lao Cai, Vietnam	me³³ȶaw³³
+104	Laos_104	rice husk	Luang Nam Tha, Laos	buj³⁵
+693	Vietnam_168	rice spike	Lao Cai, Vietnam	nin⁴⁴bla:w³¹
+692	Vietnam_167	ricedgi.wav	Lao Cai, Vietnam	sɔŋ³⁵
+470	Laos_470	right side	Luang Nam Tha, Laos	bjaw³¹fa:n¹³
+823	Vietnam_298	right side	Lao Cai, Vietnam	bjaw³³pu³¹
+757	Vietnam_232	ring	Lao Cai, Vietnam	pu.dɔ¹¹kwin⁵²
+313	Laos_313	ring (finger)	Luang Nam Tha, Laos	mun³³se³³gɛŋ¹³
+822	Vietnam_297	ripe	Lao Cai, Vietnam	a³³su³⁵
+45	Laos_45	river	Luang Nam Tha, Laos	wɔm⁵³lu³⁵
+654	Vietnam_129	river	Lao Cai, Vietnam	kɔj³³
+805	Vietnam_280	road	Lao Cai, Vietnam	kjaw⁴⁴
+296	Laos_296	road, path	Luang Nam Tha, Laos	kjaw³³
+301	Laos_301	roof	Luang Nam Tha, Laos	pjaw³³tuŋ¹³
+79	Laos_79	root	Luang Nam Tha, Laos	gjaŋ³³duŋ³¹
+781	Vietnam_256	rope	Lao Cai, Vietnam	lɑŋ³⁵vin⁵²
+332	Laos_332	ropes	Luang Nam Tha, Laos	la:ŋ³⁵
+821	Vietnam_296	rotten	Lao Cai, Vietnam	jɔt¹¹
+232	Laos_232	saliva	Luang Nam Tha, Laos	ȡan³¹wɔm⁵³
+233	Laos_233	saliva	Luang Nam Tha, Laos	-------
+623	Vietnam_98	saliva	Lao Cai, Vietnam	ȡaːn¹¹
+118	Laos_118	salt	Luang Nam Tha, Laos	daw³³
+655	Vietnam_130	salt	Lao Cai, Vietnam	da:w³³
+820	Vietnam_295	salty	Lao Cai, Vietnam	daj¹¹
+543	Vietnam_18	sambar deer	Lao Cai, Vietnam	ki¹¹juŋ¹¹
+53	Laos_53	sand	Luang Nam Tha, Laos	gjaw⁵³θaj⁵³min³¹
+656	Vietnam_131	sand	Lao Cai, Vietnam	gjaw²¹⁴θa:j²¹⁴
+324	Laos_324	scissors	Luang Nam Tha, Laos	ȡu²¹
+217	Laos_217	scorpion	Luang Nam Tha, Laos	θap³¹kɔŋ⁵³
+47	Laos_47	sea	Luang Nam Tha, Laos	koj¹¹lu³⁵
+83	Laos_83	seed	Luang Nam Tha, Laos	-------
+84	Laos_84	seed	Luang Nam Tha, Laos	nɔm⁵³
+113	Laos_113	sesame	Luang Nam Tha, Laos	θa³⁵pɛ²¹ (white)
+114	Laos_114	sesame	Luang Nam Tha, Laos	θa³⁵kja⁵³ (black)
+10	Laos_10	shadow	Luang Nam Tha, Laos	bə.gloj⁵³
+255	Laos_255	shin	Luang Nam Tha, Laos	θaw³³min³⁵
+758	Vietnam_233	shirt/tunic	Lao Cai, Vietnam	guj²¹⁴
+819	Vietnam_294	short	Lao Cai, Vietnam	ham⁵²
+624	Vietnam_99	shoulder	Lao Cai, Vietnam	pɐ.taw¹¹
+569	Vietnam_44	shrimp	Lao Cai, Vietnam	ȶa³¹kɔŋ²¹⁴
+782	Vietnam_257	sickle	Lao Cai, Vietnam	ȴu³¹to²¹⁴
+55	Laos_55	silver	Luang Nam Tha, Laos	ȵan³¹pɛ²¹
+56	Laos_56	silver	Luang Nam Tha, Laos	-------
+657	Vietnam_132	silver	Lao Cai, Vietnam	ȵa:n¹¹
+286	Laos_286	sister (elder of f)	Luang Nam Tha, Laos	ȵaːm⁵³
+287	Laos_287	sister (elder of m)	Luang Nam Tha, Laos	həj³¹
+290	Laos_290	sister (younger of f)	Luang Nam Tha, Laos	mu²¹
+291	Laos_291	sister (younger of m)	Luang Nam Tha, Laos	θa:j¹³
+262	Laos_262	skin	Luang Nam Tha, Laos	dup²¹
+625	Vietnam_100	skin	Lao Cai, Vietnam	tɐ.dup³¹
+759	Vietnam_234	skirt	Lao Cai, Vietnam	ȶun¹¹
+1	Laos_1	sky	Luang Nam Tha, Laos	guŋ³¹
+658	Vietnam_133	sky	Lao Cai, Vietnam	guŋ¹¹
+818	Vietnam_293	slick	Lao Cai, Vietnam	blaŋ³³
+337	Laos_337	smell	Luang Nam Tha, Laos	si³³da:ŋ⁵³
+817	Vietnam_292	smelly	Lao Cai, Vietnam	θɐj³⁵
+319	Laos_319	smoke	Luang Nam Tha, Laos	to³⁴¹so³⁵
+212	Laos_212	snail	Luang Nam Tha, Laos	kwe⁵³
+570	Vietnam_45	snail	Lao Cai, Vietnam	kwɐj²¹⁴
+200	Laos_200	snake	Luang Nam Tha, Laos	na:ŋ⁵³
+571	Vietnam_46	snake	Lao Cai, Vietnam	na:ŋ²¹⁴
+21	Laos_21	snow	Luang Nam Tha, Laos	-------
+816	Vietnam_291	soft	Lao Cai, Vietnam	sɔt³³
+452	Laos_452	some	Luang Nam Tha, Laos	ki⁵³kla:n³¹
+742	Vietnam_217	son	Lao Cai, Vietnam	mun¹¹tɔn²¹⁴
+694	Vietnam_169	soup	Lao Cai, Vietnam	je³³wɐm²¹⁴
+815	Vietnam_290	sour	Lao Cai, Vietnam	θuj⁵²
+41	Laos_41	south	Luang Nam Tha, Laos	na:m³¹fa:n¹³
+42	Laos_42	south	Luang Nam Tha, Laos	ku³³le³⁵fa:n¹³
+120	Laos_120	soy sauce	Luang Nam Tha, Laos	ȶə.koŋ⁵³kja:ŋ⁵³
+116	Laos_116	soybean sprout	Luang Nam Tha, Laos	tə.bwe³³ȵa:³¹
+572	Vietnam_47	sparrow	Lao Cai, Vietnam	nɔ³³kɐj³³
+123	Laos_123	spices	Luang Nam Tha, Laos	-------
+814	Vietnam_289	spicy	Lao Cai, Vietnam	bjat³³
+206	Laos_206	spider	Luang Nam Tha, Laos	kjiŋ⁵³ȵa:³³
+573	Vietnam_48	spider	Lao Cai, Vietnam	kjɛŋ²¹⁴ȵa:⁴⁴
+207	Laos_207	spider web	Luang Nam Tha, Laos	kjiŋ⁵³ȵa³³θa:ŋ⁵³
+158	Laos_158	spoon	Luang Nam Tha, Laos	ȶə.kun⁵³
+316	Laos_316	spoon	Luang Nam Tha, Laos	ȶə̌³¹kun⁵³
+162	Laos_162	sprout	Luang Nam Tha, Laos	blaw³¹ja:ŋ⁵³
+806	Vietnam_281	stairs/ladder	Lao Cai, Vietnam	kjɑw⁴⁴kɑ³⁵
+8	Laos_8	star	Luang Nam Tha, Laos	θin⁵³taw¹³
+58	Laos_58	steel	Luang Nam Tha, Laos	θe⁵³ȶuŋ³⁴¹
+813	Vietnam_288	sticky	Lao Cai, Vietnam	bla²¹⁴
+51	Laos_51	stone	Luang Nam Tha, Laos	gja:w⁵³
+659	Vietnam_134	stone	Lao Cai, Vietnam	gjaw²¹⁴
+20	Laos_20	storm	Luang Nam Tha, Laos	ȡaw¹³kja⁵³
+46	Laos_46	stream	Luang Nam Tha, Laos	wɔm⁵³nɔ³⁴¹
+121	Laos_121	sugar	Luang Nam Tha, Laos	toŋ³¹van¹³
+91	Laos_91	sugarcane	Luang Nam Tha, Laos	kum³¹sa:¹³
+695	Vietnam_170	sugarcane	Lao Cai, Vietnam	ku¹¹sa:³⁵
+2	Laos_2	sun	Luang Nam Tha, Laos	mə.nɔj³⁵
+660	Vietnam_135	sun	Lao Cai, Vietnam	mɐ.nɔj⁵²
+661	Vietnam_136	sunshine	Lao Cai, Vietnam	guŋ¹¹kjɔm²¹⁴
+62	Laos_62	swamp	Luang Nam Tha, Laos	gla:ŋ³¹
+264	Laos_264	sweat	Luang Nam Tha, Laos	ha:n¹¹
+812	Vietnam_287	sweet	Lao Cai, Vietnam	gam²¹⁴
+105	Laos_105	sweet potato	Luang Nam Tha, Laos	doj³¹dun⁵³
+205	Laos_205	tadpole	Luang Nam Tha, Laos	ȶɛŋ³³plɔŋ¹³
+188	Laos_188	tail	Luang Nam Tha, Laos	təj³³
+626	Vietnam_101	tail	Lao Cai, Vietnam	tɐj⁴⁴
+107	Laos_107	taro	Luang Nam Tha, Laos	hoʔ¹¹
+696	Vietnam_171	taro	Lao Cai, Vietnam	ho³³bu³³
+126	Laos_126	tea	Luang Nam Tha, Laos	ȶa:³¹
+627	Vietnam_102	tears	Lao Cai, Vietnam	mɐj³³wɐm²¹⁴
+210	Laos_210	termite	Luang Nam Tha, Laos	sə.bla:w³¹
+477	Laos_477	that	Luang Nam Tha, Laos	wa:³³
+3	Laos_3	the sun rises	Luang Nam Tha, Laos	mə.nɔj³⁵saːw¹³
+4	Laos_4	the sun rises	Luang Nam Tha, Laos	mə.nɔj³⁵sɛt³¹
+5	Laos_5	the sun sets	Luang Nam Tha, Laos	mə.nɔj³⁵mot²¹ȶəj²¹
+6	Laos_6	the sun sets	Luang Nam Tha, Laos	mə.nɔj³⁵tuj³¹
+274	Laos_274	they	Luang Nam Tha, Laos	θi³¹tin³¹doj³¹
+275	Laos_275	they	Luang Nam Tha, Laos	-------
+938	Vietnam_413	they	Lao Cai, Vietnam	si²¹⁴
+252	Laos_252	thigh	Luang Nam Tha, Laos	θaw³³bɔŋ³³
+628	Vietnam_103	thigh	Lao Cai, Vietnam	θaw³⁵bɔŋ³⁵
+476	Laos_476	this	Luang Nam Tha, Laos	ne³³
+78	Laos_78	thorn	Luang Nam Tha, Laos	ȡim³³
+697	Vietnam_172	thorn	Lao Cai, Vietnam	ȡim⁴⁴
+269	Laos_269	thou (2s)	Luang Nam Tha, Laos	məj³¹
+760	Vietnam_235	thread	Lao Cai, Vietnam	θuj⁵²
+18	Laos_18	thunder	Luang Nam Tha, Laos	bu.gɔŋ⁵³haːw³¹
+662	Vietnam_137	thunder	Lao Cai, Vietnam	bu.kɔŋ²¹⁴
+172	Laos_172	tiger	Luang Nam Tha, Laos	gja:n³¹
+574	Vietnam_49	tiger	Lao Cai, Vietnam	gja:n¹¹
+935	Vietnam_410	to accept	Lao Cai, Vietnam	nɔŋ³³
+363	Laos_363	to answer	Luang Nam Tha, Laos	ta:w⁵³
+934	Vietnam_409	to answer	Lao Cai, Vietnam	kɔŋ⁴⁴
+933	Vietnam_408	to arise	Lao Cai, Vietnam	θe¹¹kwɛ³⁴¹
+932	Vietnam_407	to arrive	Lao Cai, Vietnam	da:j¹¹
+150	Laos_150	to bake	Luang Nam Tha, Laos	up³¹
+179	Laos_179	to bark	Luang Nam Tha, Laos	ȶuŋ¹³
+930	Vietnam_405	to bathe	Lao Cai, Vietnam	dam³¹wɐm²¹⁴
+929	Vietnam_404	to be able	Lao Cai, Vietnam	du²¹⁴
+374	Laos_374	to be afraid	Luang Nam Tha, Laos	kum³¹ȡa:³³
+375	Laos_375	to be angry	Luang Nam Tha, Laos	si²¹
+513	Laos_513	to be bad	Luang Nam Tha, Laos	ma³¹gɔŋ¹³
+455	Laos_455	to be big	Luang Nam Tha, Laos	lu³⁵
+490	Laos_490	to be bitter	Luang Nam Tha, Laos	im⁵³
+508	Laos_508	to be blind	Luang Nam Tha, Laos	məj²¹bu¹¹
+499	Laos_499	to be blunt	Luang Nam Tha, Laos	plun¹³
+487	Laos_487	to be bright	Luang Nam Tha, Laos	gwaŋ⁵³daŋ³⁵
+497	Laos_497	to be cold	Luang Nam Tha, Laos	nam¹³
+514	Laos_514	to be correct	Luang Nam Tha, Laos	hɔ³³ȡo²¹
+486	Laos_486	to be dark	Luang Nam Tha, Laos	ȡam²¹
+509	Laos_509	to be deaf	Luang Nam Tha, Laos	mə.nɔm³¹duŋ⁵³
+466	Laos_466	to be deep	Luang Nam Tha, Laos	du⁵³
+483	Laos_483	to be dirty	Luang Nam Tha, Laos	klu³¹
+347	Laos_347	to be drunk	Luang Nam Tha, Laos	bin⁵³
+494	Laos_494	to be dry	Luang Nam Tha, Laos	ga:j³⁵
+474	Laos_474	to be far	Luang Nam Tha, Laos	ku⁵³
+503	Laos_503	to be fast	Luang Nam Tha, Laos	kan³³
+463	Laos_463	to be fat	Luang Nam Tha, Laos	kun²¹
+453	Laos_453	to be few	Luang Nam Tha, Laos	θɔ²¹
+344	Laos_344	to be full	Luang Nam Tha, Laos	piw³³
+469	Laos_469	to be full	Luang Nam Tha, Laos	pɔŋ³³
+512	Laos_512	to be good	Luang Nam Tha, Laos	gɔŋ¹³
+501	Laos_501	to be hard	Luang Nam Tha, Laos	ȵɛŋ³¹
+500	Laos_500	to be heavy	Luang Nam Tha, Laos	ni¹¹
+496	Laos_496	to be hot	Luang Nam Tha, Laos	kjom⁵³
+343	Laos_343	to be hungry	Luang Nam Tha, Laos	ȵo³¹sa:¹³
+457	Laos_457	to be long	Luang Nam Tha, Laos	da:w³³
+450	Laos_450	to be many	Luang Nam Tha, Laos	du³³la:n³¹
+465	Laos_465	to be narrow	Luang Nam Tha, Laos	ȡɛp³¹
+475	Laos_475	to be near	Luang Nam Tha, Laos	θat²¹
+484	Laos_484	to be new	Luang Nam Tha, Laos	saŋ³⁵
+485	Laos_485	to be old	Luang Nam Tha, Laos	lu³³ȵaŋ⁵³
+493	Laos_493	to be ripe	Luang Nam Tha, Laos	-------
+492	Laos_492	to be rotten	Luang Nam Tha, Laos	-------
+468	Laos_468	to be round	Luang Nam Tha, Laos	klun³¹
+467	Laos_467	to be shallow	Luang Nam Tha, Laos	gjaŋ³³
+498	Laos_498	to be sharp	Luang Nam Tha, Laos	gjaj²¹
+460	Laos_460	to be short (height)	Luang Nam Tha, Laos	ha:³⁵
+458	Laos_458	to be short (length)	Luang Nam Tha, Laos	niŋ³³
+504	Laos_504	to be slow	Luang Nam Tha, Laos	man¹¹
+456	Laos_456	to be small	Luang Nam Tha, Laos	kja:n⁵³
+502	Laos_502	to be smooth	Luang Nam Tha, Laos	ðɛŋ³³ðo²¹
+489	Laos_489	to be sour	Luang Nam Tha, Laos	θuj³⁵
+491	Laos_491	to be spicy, hot	Luang Nam Tha, Laos	bja:t³¹
+472	Laos_472	to be straight	Luang Nam Tha, Laos	dɛŋ³¹
+473	Laos_473	to be straight	Luang Nam Tha, Laos	saŋ¹³
+505	Laos_505	to be strong	Luang Nam Tha, Laos	ȵɛŋ³³ga:ŋ³¹
+506	Laos_506	to be strong	Luang Nam Tha, Laos	kjoŋ³³paŋ³⁵
+488	Laos_488	to be sweet	Luang Nam Tha, Laos	ka:m⁵³
+459	Laos_459	to be tall	Luang Nam Tha, Laos	gjaŋ³⁵
+461	Laos_461	to be thick	Luang Nam Tha, Laos	hu³⁵
+462	Laos_462	to be thin	Luang Nam Tha, Laos	fa²¹
+345	Laos_345	to be thirsty	Luang Nam Tha, Laos	ȵo³¹ga:t³¹
+507	Laos_507	to be weak	Luang Nam Tha, Laos	də.maj³³nup³⁵
+495	Laos_495	to be wet	Luang Nam Tha, Laos	dɔn⁵³
+464	Laos_464	to be wide, broad	Luang Nam Tha, Laos	gwaŋ³³
+515	Laos_515	to be wrong	Luang Nam Tha, Laos	pɛw³³
+180	Laos_180	to bite	Luang Nam Tha, Laos	tap³¹
+928	Vietnam_403	to bite	Lao Cai, Vietnam	tap³³
+354	Laos_354	to blow	Luang Nam Tha, Laos	pjɔm³³
+927	Vietnam_402	to blow	Lao Cai, Vietnam	pjɔm⁴⁴
+145	Laos_145	to boil	Luang Nam Tha, Laos	ȶo³³
+413	Laos_413	to boil (sth.)	Luang Nam Tha, Laos	-------
+353	Laos_353	to breathe	Luang Nam Tha, Laos	tɔŋ³³si³⁵
+414	Laos_414	to burn	Luang Nam Tha, Laos	pu³³
+415	Laos_415	to burn	Luang Nam Tha, Laos	-------
+410	Laos_410	to bury (a corpse)	Luang Nam Tha, Laos	θo³³
+422	Laos_422	to buy	Luang Nam Tha, Laos	maj³⁴¹
+926	Vietnam_401	to buy	Lao Cai, Vietnam	maj³⁴¹
+925	Vietnam_400	to carry	Lao Cai, Vietnam	dam²¹⁴
+924	Vietnam_399	to chase	Lao Cai, Vietnam	luj³³
+923	Vietnam_398	to chew	Lao Cai, Vietnam	ȵaj⁵²
+134	Laos_134	to chop/mince	Luang Nam Tha, Laos	dəj³⁵
+390	Laos_390	to come	Luang Nam Tha, Laos	ta:j⁵³
+922	Vietnam_397	to come	Lao Cai, Vietnam	taw⁵²
+921	Vietnam_396	to cook	Lao Cai, Vietnam	ȶo⁴⁴
+130	Laos_130	to cook (rice)	Luang Nam Tha, Laos	ȶo³³naŋ³⁵
+350	Laos_350	to cough	Luang Nam Tha, Laos	saŋ³¹ha:³⁵
+373	Laos_373	to count	Luang Nam Tha, Laos	θa:w¹¹
+144	Laos_144	to crack an egg	Luang Nam Tha, Laos	bɔ⁵³kjaw¹³
+389	Laos_389	to crawl	Luang Nam Tha, Laos	ȵoŋ⁵³
+920	Vietnam_395	to crow	Lao Cai, Vietnam	aj³³gaj³⁵
+405	Laos_405	to cut (hair)	Luang Nam Tha, Laos	te³⁵pje³³
+132	Laos_132	to cut into pieces	Luang Nam Tha, Laos	ȶap³¹
+133	Laos_133	to cut into slices	Luang Nam Tha, Laos	pi¹¹
+919	Vietnam_394	to cut w/ knife	Lao Cai, Vietnam	gat³¹
+918	Vietnam_393	to cut w/ scissors	Lao Cai, Vietnam	gjap³³
+418	Laos_418	to dance	Luang Nam Tha, Laos	tiw³¹ȵa:¹¹
+931	Vietnam_406	to dark	Lao Cai, Vietnam	ȶuŋ³⁵
+170	Laos_170	to decay	Luang Nam Tha, Laos	jɔt⁵³
+383	Laos_383	to die	Luang Nam Tha, Laos	taj²¹
+917	Vietnam_392	to die	Lao Cai, Vietnam	daj³³
+409	Laos_409	to dig	Luang Nam Tha, Laos	wit⁵³
+154	Laos_154	to dip	Luang Nam Tha, Laos	nam³⁴¹
+916	Vietnam_391	to dip	Lao Cai, Vietnam	gwa⁵²
+426	Laos_426	to disappear	Luang Nam Tha, Laos	ma³³sɛt³¹fa:n¹³
+915	Vietnam_390	to drain	Lao Cai, Vietnam	goj⁵²wɐm²¹⁴
+914	Vietnam_389	to draw water	Lao Cai, Vietnam	dan³⁵
+378	Laos_378	to dream	Luang Nam Tha, Laos	bwe¹³
+346	Laos_346	to drink	Luang Nam Tha, Laos	hɔp³⁵wɔm⁵³
+913	Vietnam_388	to drink	Lao Cai, Vietnam	hɔp⁵²
+411	Laos_411	to dry (sth.)	Luang Nam Tha, Laos	fa:j³⁵
+308	Laos_308	to dye ( cloth )	Luang Nam Tha, Laos	ȵum³³puj¹³
+341	Laos_341	to eat	Luang Nam Tha, Laos	ȵin³³
+911	Vietnam_386	to eat	Lao Cai, Vietnam	ȵin³³
+391	Laos_391	to enter	Luang Nam Tha, Laos	ȡa²¹
+424	Laos_424	to exchange	Luang Nam Tha, Laos	tiŋ³¹wan²¹
+910	Vietnam_385	to explode	Lao Cai, Vietnam	tɔ³³
+398	Laos_398	to fall	Luang Nam Tha, Laos	tuj⁵³
+909	Vietnam_384	to fall down	Lao Cai, Vietnam	kliŋ³⁴¹
+908	Vietnam_383	to fear	Lao Cai, Vietnam	kuŋ¹¹ja⁵²
+421	Laos_421	to fight	Luang Nam Tha, Laos	ȶɛŋ⁵³
+69	Laos_69	to float	Luang Nam Tha, Laos	bjo³¹
+67	Laos_67	to flow	Luang Nam Tha, Laos	tuj³⁵
+194	Laos_194	to fly	Luang Nam Tha, Laos	da:j³⁵
+195	Laos_195	to fly	Luang Nam Tha, Laos	-------
+907	Vietnam_382	to fly	Lao Cai, Vietnam	dɐj⁵²
+369	Laos_369	to forget	Luang Nam Tha, Laos	ȵo¹¹kɔ³³
+906	Vietnam_381	to forget	Lao Cai, Vietnam	ȵo³³gɔ⁵²
+905	Vietnam_380	to fry	Lao Cai, Vietnam	ȶa:w³³
+147	Laos_147	to fry in fat/oil	Luang Nam Tha, Laos	θin¹³
+400	Laos_400	to give	Luang Nam Tha, Laos	fun⁵³
+903	Vietnam_378	to give	Lao Cai, Vietnam	fɐn²¹⁴
+904	Vietnam_379	to give birth	Lao Cai, Vietnam	juŋ³⁴¹
+902	Vietnam_377	to go	Lao Cai, Vietnam	niŋ¹¹
+407	Laos_407	to grind	Luang Nam Tha, Laos	ma:³¹
+161	Laos_161	to grow	Luang Nam Tha, Laos	sɔŋ¹³
+329	Laos_329	to hammer	Luang Nam Tha, Laos	kəj³⁵
+371	Laos_371	to hate	Luang Nam Tha, Laos	han¹¹
+336	Laos_336	to hear	Luang Nam Tha, Laos	tu⁵³nuŋ³⁵
+901	Vietnam_376	to hear	Lao Cai, Vietnam	muŋ⁵²
+900	Vietnam_375	to hide	Lao Cai, Vietnam	mɛm⁴⁴
+403	Laos_403	to hit	Luang Nam Tha, Laos	pa:n¹³
+899	Vietnam_374	to hone kn	Lao Cai, Vietnam	ȶo⁵²ȶu³³
+420	Laos_420	to hunt	Luang Nam Tha, Laos	niŋ³³kim³¹
+380	Laos_380	to itch	Luang Nam Tha, Laos	sɛt³⁵
+395	Laos_395	to kick	Luang Nam Tha, Laos	ti³³
+898	Vietnam_373	to kill	Lao Cai, Vietnam	dɐj³⁵
+139	Laos_139	to knead (a dough)	Luang Nam Tha, Laos	ȵuj³¹
+387	Laos_387	to kneel	Luang Nam Tha, Laos	kwe²¹
+368	Laos_368	to know	Luang Nam Tha, Laos	pəj⁵³
+897	Vietnam_372	to know	Lao Cai, Vietnam	pe²¹⁴
+359	Laos_359	to laugh	Luang Nam Tha, Laos	kjət²¹
+357	Laos_357	to lick	Luang Nam Tha, Laos	klim³⁴¹
+364	Laos_364	to lie, fib	Luang Nam Tha, Laos	puŋ³³ma:w³¹
+896	Vietnam_371	to like	Lao Cai, Vietnam	oj³⁵
+370	Laos_370	to love	Luang Nam Tha, Laos	oj¹³
+895	Vietnam_370	to marry d	Lao Cai, Vietnam	naj³⁵la:ŋ¹¹
+894	Vietnam_369	to marry w	Lao Cai, Vietnam	ȶo¹¹aw⁴⁴
+22	Laos_22	to melt	Luang Nam Tha, Laos	ju:¹¹
+321	Laos_321	to move	Luang Nam Tha, Laos	θuj¹¹
+893	Vietnam_368	to mow	Lao Cai, Vietnam	gwan⁵²
+892	Vietnam_367	to open mr	Lao Cai, Vietnam	gɔj⁵²
+891	Vietnam_366	to pat	Lao Cai, Vietnam	bɛ⁵²
+327	Laos_327	to pierce	Luang Nam Tha, Laos	lɔm³⁵
+408	Laos_408	to plant	Luang Nam Tha, Laos	-------
+417	Laos_417	to play	Luang Nam Tha, Laos	blan³³
+140	Laos_140	to pound (garlic)	Luang Nam Tha, Laos	ȶup³⁵
+412	Laos_412	to pound (rice)	Luang Nam Tha, Laos	ȶup³⁵məj¹¹
+142	Laos_142	to pour over	Luang Nam Tha, Laos	kuŋ³³naŋ³³
+394	Laos_394	to pull	Luang Nam Tha, Laos	dan¹³
+890	Vietnam_365	to pull	Lao Cai, Vietnam	da:n³⁵
+889	Vietnam_364	to pull gr	Lao Cai, Vietnam	bɛŋ¹¹ma³⁵
+393	Laos_393	to push	Luang Nam Tha, Laos	ȵɔŋ¹¹
+141	Laos_141	to put in (ingredients)	Luang Nam Tha, Laos	θuŋ³³liw²¹
+888	Vietnam_363	to remember	Lao Cai, Vietnam	saŋ³⁵
+887	Vietnam_362	to rest	Lao Cai, Vietnam	ni³¹gan⁵²
+392	Laos_392	to return	Luang Nam Tha, Laos	fun³³da:ŋ⁵³
+886	Vietnam_361	to return	Lao Cai, Vietnam	law³⁴¹
+885	Vietnam_360	to ride horse	Lao Cai, Vietnam	ȶe¹¹ma³⁴¹
+166	Laos_166	to ripen	Luang Nam Tha, Laos	su¹¹
+884	Vietnam_359	to roar	Lao Cai, Vietnam	haw¹¹
+149	Laos_149	to roast	Luang Nam Tha, Laos	si⁵³
+883	Vietnam_358	to roast	Lao Cai, Vietnam	si²¹⁴
+331	Laos_331	to roll	Luang Nam Tha, Laos	pluj⁵³
+882	Vietnam_357	to run	Lao Cai, Vietnam	tju⁵²
+881	Vietnam_356	to scold	Lao Cai, Vietnam	ma³³
+880	Vietnam_355	to scrape	Lao Cai, Vietnam	gwit⁵²
+381	Laos_381	to scratch	Luang Nam Tha, Laos	ȵa:j³³
+338	Laos_338	to see	Luang Nam Tha, Laos	fat²¹
+879	Vietnam_354	to see	Lao Cai, Vietnam	mɐŋ³³
+423	Laos_423	to sell	Luang Nam Tha, Laos	ma:j²¹
+878	Vietnam_353	to sell	Lao Cai, Vietnam	ma:j³³
+152	Laos_152	to set the table	Luang Nam Tha, Laos	bin³³ȶoŋ³⁴¹
+877	Vietnam_352	to set trap	Lao Cai, Vietnam	niŋ¹¹θi⁵²
+310	Laos_310	to sew	Luang Nam Tha, Laos	gɔn³¹
+326	Laos_326	to sharpen a knife	Luang Nam Tha, Laos	ȡo³⁵ȡu²¹
+382	Laos_382	to shiver	Luang Nam Tha, Laos	sin¹³
+419	Laos_419	to shoot	Luang Nam Tha, Laos	fan³³
+362	Laos_362	to shout	Luang Nam Tha, Laos	ha:m³⁵
+365	Laos_365	to sing	Luang Nam Tha, Laos	aj¹¹ȡuŋ⁵³
+366	Laos_366	to sing	Luang Nam Tha, Laos	-------
+70	Laos_70	to sink	Luang Nam Tha, Laos	sim⁵³
+385	Laos_385	to sit	Luang Nam Tha, Laos	θəj³⁴¹
+876	Vietnam_351	to sit	Lao Cai, Vietnam	gjɛt³³
+875	Vietnam_350	to slash	Lao Cai, Vietnam	daw⁴⁴
+376	Laos_376	to sleep	Luang Nam Tha, Laos	fəj¹³
+874	Vietnam_349	to sleep	Lao Cai, Vietnam	fɐj³⁵
+873	Vietnam_348	to smell	Lao Cai, Vietnam	hɔm⁵²
+358	Laos_358	to smile	Luang Nam Tha, Laos	kjət²¹
+129	Laos_129	to smoke	Luang Nam Tha, Laos	hɔp³⁵jin³⁵bja:t³¹
+872	Vietnam_347	to smoke	Lao Cai, Vietnam	hɔp⁵²jin²¹⁴
+351	Laos_351	to sneeze	Luang Nam Tha, Laos	saŋ³¹ha³⁵kjan⁵³
+377	Laos_377	to snore	Luang Nam Tha, Laos	da:n³¹
+871	Vietnam_346	to soak	Lao Cai, Vietnam	θe³³wɔm²¹⁴
+360	Laos_360	to speak	Luang Nam Tha, Laos	kɔŋ³³
+349	Laos_349	to spit	Luang Nam Tha, Laos	ȡo³⁴¹ȡa:n⁵³
+404	Laos_404	to split	Luang Nam Tha, Laos	pa:j³⁵
+163	Laos_163	to sprout	Luang Nam Tha, Laos	pju³³ȵa:³¹
+143	Laos_143	to squeeze	Luang Nam Tha, Laos	nɛŋ³³
+406	Laos_406	to stab	Luang Nam Tha, Laos	lɔm³⁵
+386	Laos_386	to stand	Luang Nam Tha, Laos	θow²¹
+870	Vietnam_345	to stand	Lao Cai, Vietnam	θo⁴⁴
+425	Laos_425	to steal	Luang Nam Tha, Laos	aj³³θa²¹
+869	Vietnam_344	to steal	Lao Cai, Vietnam	aj³³θa³⁵
+148	Laos_148	to steam	Luang Nam Tha, Laos	sa:ŋ⁵³
+868	Vietnam_343	to steam	Lao Cai, Vietnam	naŋ³⁵saŋ²¹⁴
+138	Laos_138	to stir	Luang Nam Tha, Laos	mun³¹
+867	Vietnam_342	to stir	Lao Cai, Vietnam	law⁴⁴
+146	Laos_146	to stir fry, to fry	Luang Nam Tha, Laos	ȶa:w¹¹
+866	Vietnam_341	to stoke	Lao Cai, Vietnam	su¹¹
+355	Laos_355	to suck	Luang Nam Tha, Laos	dut⁵³
+356	Laos_356	to suck	Luang Nam Tha, Laos	hɔp³⁵
+912	Vietnam_387	to sun dry	Lao Cai, Vietnam	faj⁵²
+342	Laos_342	to swallow	Luang Nam Tha, Laos	na⁵³
+399	Laos_399	to swim	Luang Nam Tha, Laos	kjo³¹wɔm⁵³
+865	Vietnam_340	to swim	Lao Cai, Vietnam	kjo¹¹
+864	Vietnam_339	to talk	Lao Cai, Vietnam	kɔ⁵²wa³⁵
+151	Laos_151	to taste	Luang Nam Tha, Laos	dɔp²¹
+863	Vietnam_338	to tear	Lao Cai, Vietnam	ȶɛ⁵²
+361	Laos_361	to tell	Luang Nam Tha, Laos	bu¹³
+862	Vietnam_337	to tell	Lao Cai, Vietnam	------------
+367	Laos_367	to think	Luang Nam Tha, Laos	ȵe³¹
+396	Laos_396	to throw	Luang Nam Tha, Laos	biw³⁵
+397	Laos_397	to throw	Luang Nam Tha, Laos	gwɛŋ²¹
+401	Laos_401	to tie	Luang Nam Tha, Laos	θa:j³⁵
+11	Laos_11	to twinkle	Luang Nam Tha, Laos	-------
+348	Laos_348	to vomit	Luang Nam Tha, Laos	u³³
+372	Laos_372	to wait	Luang Nam Tha, Laos	ȶu³³
+861	Vietnam_336	to wait	Lao Cai, Vietnam	ȶu⁴⁴
+388	Laos_388	to walk	Luang Nam Tha, Laos	ja:ŋ³¹
+860	Vietnam_335	to walk	Lao Cai, Vietnam	jaŋ³³θaw³⁵
+858	Vietnam_333	to wash	Lao Cai, Vietnam	daw³⁵
+131	Laos_131	to wash rice	Luang Nam Tha, Laos	daw³³naŋ³⁵
+307	Laos_307	to weave ( cloth )	Luang Nam Tha, Laos	puj³³kan³⁵
+340	Laos_340	to weep	Luang Nam Tha, Laos	ha:w³¹
+339	Laos_339	to wink	Luang Nam Tha, Laos	ȡip²¹məj²¹
+402	Laos_402	to wipe	Luang Nam Tha, Laos	θɔt³⁵
+169	Laos_169	to wither	Luang Nam Tha, Laos	gju³¹
+416	Laos_416	to work	Luang Nam Tha, Laos	aj³³guŋ³³po⁵³
+859	Vietnam_334	to write	Lao Cai, Vietnam	kja⁴⁴
+352	Laos_352	to yawn	Luang Nam Tha, Laos	kaw³¹ŋɔp⁵³
+698	Vietnam_173	tobacco	Lao Cai, Vietnam	jin³¹ȶaj³⁴¹
+629	Vietnam_104	toe	Lao Cai, Vietnam	θaw³⁵dɔ³¹
+111	Laos_111	tomato	Luang Nam Tha, Laos	pjaw³³pjo³³
+33	Laos_33	tomorrow	Luang Nam Tha, Laos	saŋ³¹dom⁵³
+231	Laos_231	tongue	Luang Nam Tha, Laos	bjɛt³¹
+630	Vietnam_105	tongue	Lao Cai, Vietnam	bjɐt³³
+323	Laos_323	tools	Luang Nam Tha, Laos	ȶə.ðaj³³
+234	Laos_234	tooth	Luang Nam Tha, Laos	ȵa:³¹
+75	Laos_75	tree	Luang Nam Tha, Laos	gjaŋ¹³
+699	Vietnam_174	tree	Lao Cai, Vietnam	gja:ŋ³⁵
+77	Laos_77	tree bark	Luang Nam Tha, Laos	gjaŋ¹³dup²¹
+164	Laos_164	tree shade	Luang Nam Tha, Laos	gjaŋ¹³glom¹³
+700	Vietnam_175	tree trunk	Lao Cai, Vietnam	gjaŋ³⁵θin⁵²
+309	Laos_309	trousers	Luang Nam Tha, Laos	kwa:³⁵
+761	Vietnam_236	trousers	Lao Cai, Vietnam	kwɑ⁵²
+202	Laos_202	turtle	Luang Nam Tha, Laos	tu²¹
+575	Vietnam_50	turtle	Lao Cai, Vietnam	pit³¹
+631	Vietnam_106	tusk	Lao Cai, Vietnam	ȵa:¹¹
+267	Laos_267	urine	Luang Nam Tha, Laos	wa³⁴¹
+633	Vietnam_108	urine	Lao Cai, Vietnam	wa³⁴¹
+64	Laos_64	valley	Luang Nam Tha, Laos	sun³⁵ȶa:w⁵³
+701	Vietnam_176	vegetable	Lao Cai, Vietnam	gjɐj²¹⁴
+295	Laos_295	village	Luang Nam Tha, Laos	gjaŋ³⁴¹
+807	Vietnam_282	village	Lao Cai, Vietnam	gjɐŋ³⁴¹
+634	Vietnam_109	waist	Lao Cai, Vietnam	kla:j⁴⁴
+302	Laos_302	wall of house	Luang Nam Tha, Laos	pjaw³³gɔŋ³⁴¹
+516	Laos_516	warm	Luang Nam Tha, Laos	kjom⁵³bɔŋ³¹
+576	Vietnam_51	wasp	Lao Cai, Vietnam	mɐj³⁴¹
+44	Laos_44	water	Luang Nam Tha, Laos	wɔm⁵³
+663	Vietnam_138	water	Lao Cai, Vietnam	wɐm²¹⁴
+71	Laos_71	waterfall	Luang Nam Tha, Laos	wɔm⁵³tuj³¹ȶa:m³¹
+98	Laos_98	watermelon	Luang Nam Tha, Laos	kwa⁵³θa:j⁵³
+937	Vietnam_412	we	Lao Cai, Vietnam	pan¹¹
+272	Laos_272	we (1p)	Luang Nam Tha, Laos	pan³¹ti³¹doj³¹
+577	Vietnam_52	weasel	Lao Cai, Vietnam	kin¹¹ma:w¹¹
+24	Laos_24	weather	Luang Nam Tha, Laos	si³⁵
+808	Vietnam_283	well (water)	Lao Cai, Vietnam	twɐm¹¹kɔt³⁵
+37	Laos_37	west	Luang Nam Tha, Laos	fe⁵³fa:n¹³
+38	Laos_38	west	Luang Nam Tha, Laos	mə.nɔj³⁴¹mot²¹ȶəj³¹fa:n¹³
+811	Vietnam_286	wet	Lao Cai, Vietnam	dɔn²¹⁴
+804	Vietnam_279	wet field	Lao Cai, Vietnam	giŋ¹¹
+524	Laos_524	what	Luang Nam Tha, Laos	ȵin³⁴¹to³⁵
+521	Laos_521	when	Luang Nam Tha, Laos	toj³¹nɔj³⁵
+522	Laos_522	where	Luang Nam Tha, Laos	jam⁵³ti¹³
+334	Laos_334	whistle	Luang Nam Tha, Laos	nɔ³³dɔŋ³¹
+479	Laos_479	white	Luang Nam Tha, Laos	pɛ²¹
+810	Vietnam_285	white	Lao Cai, Vietnam	pɛ³³
+122	Laos_122	white sugar	Luang Nam Tha, Laos	toŋ³¹van³³pɛ²¹
+523	Laos_523	who	Luang Nam Tha, Laos	man³⁵
+809	Vietnam_284	wide	Lao Cai, Vietnam	kwaŋ⁴⁴
+283	Laos_283	widow	Luang Nam Tha, Laos	mun³¹ȡi³⁴¹kwa:³³
+743	Vietnam_218	widow	Lao Cai, Vietnam	gjɐm³³fɑ⁴⁴ɑw⁴⁴
+749	Vietnam_224	widower	Lao Cai, Vietnam	------------
+282	Laos_282	wife	Luang Nam Tha, Laos	aw³³
+744	Vietnam_219	wife	Lao Cai, Vietnam	ɑw⁴⁴
+19	Laos_19	wind	Luang Nam Tha, Laos	ȡa:w¹³
+664	Vietnam_139	wind	Lao Cai, Vietnam	ȡa:w³⁵
+300	Laos_300	window	Luang Nam Tha, Laos	kjɛŋ³¹kjan⁵³
+127	Laos_127	wine	Luang Nam Tha, Laos	blaw³¹ȶe⁵³tiw³³
+702	Vietnam_177	wine/alcohol	Lao Cai, Vietnam	tiw⁴⁴
+192	Laos_192	wing	Luang Nam Tha, Laos	da:t⁵³
+277	Laos_277	woman	Luang Nam Tha, Laos	mun³¹ȡi³⁴¹
+745	Vietnam_220	woman	Lao Cai, Vietnam	mun¹¹ȡi³⁴¹
+136	Laos_136	wood	Luang Nam Tha, Laos	θa:ŋ³¹
+722	Vietnam_197	y. brother	Lao Cai, Vietnam	jo³⁴¹
+741	Vietnam_216	y. sister	Lao Cai, Vietnam	mu³³
+34	Laos_34	year	Luang Nam Tha, Laos	ȵaŋ³⁵
+717	Vietnam_192	year	Lao Cai, Vietnam	ȵaŋ⁵²
+482	Laos_482	yellow	Luang Nam Tha, Laos	wa:ŋ³¹
+857	Vietnam_332	yellow	Lao Cai, Vietnam	waŋ¹¹
+32	Laos_32	yesterday	Luang Nam Tha, Laos	kum³¹nɔj³⁵
+273	Laos_273	you (2p)	Luang Nam Tha, Laos	ȵo³¹
+942	Vietnam_417	you (pl)	Lao Cai, Vietnam	ȵo¹¹
+936	Vietnam_411	you (sg)	Lao Cai, Vietnam	mɐj¹¹
