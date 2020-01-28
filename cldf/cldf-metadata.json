@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "de35ce3"
+            "dc:created": "7ecdf33"
         },
         {
             "rdf:type": "prov:Entity",
@@ -210,10 +210,6 @@
                     {
                         "datatype": "string",
                         "name": "Name_in_Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ISO"
                     }
                 ],
                 "primaryKey": [
