@@ -9,6 +9,9 @@ setup(
     entry_points={
         'cldfbench.dataset': [
             'clarkkimmun=cldfbench_clarkkimmun:Dataset',
+        ],
+        'cldfbench.commands':[
+            'hsiuhmongmien=clarkkimmuncommands',x
         ]
     },
     install_requires=[
