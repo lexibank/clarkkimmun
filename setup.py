@@ -11,7 +11,7 @@ setup(
             'clarkkimmun=cldfbench_clarkkimmun:Dataset',
         ],
         'cldfbench.commands':[
-            'hsiuhmongmien=clarkkimmuncommands',x
+            'clarkkimmun=clarkkimmuncommands',
         ]
     },
     install_requires=[
