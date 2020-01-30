@@ -67,7 +67,8 @@ class Dataset(BaseDataset):
                     for lex in args.writer.add_forms_from_value(
                         Language_ID=languages[wl[idx, "doculect"]],
                         Parameter_ID=concepts[wl[idx, "concept"]],
-                        Value=wl[idx, "ipa"]
+                        Value=wl[idx, "ipa"],
+                        Source='Clark2008'
                       ):
                 # # add cognate
                         args.writer.add_cognate(
