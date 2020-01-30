@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 raw/merge.py
 sinopy-check.py
+cldf/.transcription-report.json
 
 
 # C extensions
@@ -102,4 +103,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
