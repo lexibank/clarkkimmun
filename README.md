@@ -11,19 +11,19 @@
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 2
-- **Concepts:** 771
-- **Lexemes:** 939
+- **Concepts:** 757
+- **Lexemes:** 922
 - **Sources:** 0
-- **Synonymy:** 1.02
-- **Cognacy:** 939 cognates in 939 cognate sets (939 singletons)
+- **Synonymy:** 1.01
+- **Cognacy:** 922 cognates in 922 cognate sets (922 singletons)
 - **Cognate Diversity:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 5,670
-- **Segments:** 50 (0 BIPA errors, 0 CTLS sound class errors, 50 CLTS modified)
-- **Inventory size (avg):** 44.00
+- **Tokens:** 5,740
+- **Segments:** 51 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
+- **Inventory size (avg):** 45.00
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 939/939 (100.00%)
+- Entries missing sources: 922/922 (100.00%)
