@@ -19,7 +19,7 @@ class Dataset(BaseDataset):
     id = "clarkkimmun"
     language_class = CustomLanguage
     form_spec = FormSpec(
-        missing_data=['', '-------','------------'],
+        missing_data=[''],
         separators=";/,",
         brackets={'(': ')', '[': ']'},
         strip_inside_brackets=True,
@@ -38,35 +38,25 @@ class Dataset(BaseDataset):
         mergedfile = self.raw_dir / 'KimMun_merged.tsv'
         wl = lingpy.Wordlist(mergedfile.as_posix())
         # add languages
-        languages = {}
+        languages = args.writer.add_languages(lookup_factory="Name")
+        languages_dict = {}
         for lang in self.languages:
-            #print(lang)
-            args.writer.add_language(
-                 ID = lang['ID'],
-                 Name = lang['Name'],
-                 Latitude = lang['Latitude'],
-                 Longitude = lang['Longitude']
-             )
-            languages[lang['Name']]=lang['ID']
+            languages_dict[lang['Name']]=lang['ID']
         # make concept dictionary
-        concepts = {}
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
+        concepts_dict = {}
         for concept in self.concepts:
             idx = concept['ID']+'_'+slug(concept['GLOSS'])
-            args.writer.add_concept(
-                ID=idx,
-                Name=concept['GLOSS'],
-                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
-                Concepticon_ID=concept['CONCEPTICON_ID']
-                )
-            concepts[concept['GLOSS']]=idx
+            concepts_dict[concept['GLOSS']]=idx
         # create forms
         for idx in progressbar(wl, desc = 'cldfify the data'):
             cogid = idx
             if not re.search('[ -]', wl[idx, "ipa"]):
                 if wl[idx, "concept"]:
                     for lex in args.writer.add_forms_from_value(
-                        Language_ID=languages[wl[idx, "doculect"]],
-                        Parameter_ID=concepts[wl[idx, "concept"]],
+                        Language_ID=languages_dict[wl[idx, "doculect"]],
+                        Parameter_ID=concepts_dict[wl[idx, "concept"]],
                         Value=wl[idx, "ipa"],
                         Source='Clark2008'
                       ):
