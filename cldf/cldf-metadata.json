@@ -12,13 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "7ecdf33"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-5-g5f99100"
+            "dc:created": "df1e0f7"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,6 +25,12 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-5-g5f99100"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -51,7 +51,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 939,
+            "dc:extent": 922,
             "tableSchema": {
                 "columns": [
                     {
@@ -220,7 +220,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 771,
+            "dc:extent": 757,
             "tableSchema": {
                 "columns": [
                     {
@@ -252,7 +252,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 939,
+            "dc:extent": 922,
             "tableSchema": {
                 "columns": [
                     {

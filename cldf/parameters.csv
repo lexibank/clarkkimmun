@@ -40,7 +40,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 39_dragon,dragon,2038,DRAGON
 40_dragonfly,dragon fly,2352,DRAGONFLY
 41_duck1,duck1,1360,DUCK
-42_duck2,duck2,,
 43_eagle,eagle,1905,EAGLE
 44_flea,flea,232,FLEA
 45_goat,goat,2684,CAPRINE (GOAT OR SHEEP)
@@ -131,7 +130,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 132_calf,calf,498,CALF OF LEG
 133_shin,shin,186,SHIN
 134_foot,foot,1301,FOOT
-135_rib,rib,801,RIB
 136_flesh,flesh,2615,FLESH OR MEAT
 137_sweat,sweat,125,SWEAT (SUBSTANCE)
 138_arm,arm,1673,ARM
@@ -145,7 +143,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 146_eyebrows,eyebrows,1173,EYEBROW
 147_footsurface,foot (surface),1301,FOOT
 148_hairofbody,hair of body,189,HAIR (BODY)
-149_hairofbody2,hair of body2,189,HAIR (BODY)
 150_hairofhead,hair of head,2648,HAIR (HEAD)
 151_hip,hip,1745,HIP
 152_intestine,intestine,1991,INTESTINES
@@ -317,7 +314,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 324_dust,dust,2,DUST
 325_pebble,pebble,961,PEBBLES
 326_steel,steel,2343,STEEL
-327_earthquake,earthquake,6,EARTHQUAKE
 328_swamp,swamp,1145,SWAMP
 329_valley,valley,921,VALLEY
 330_hole,hole,1667,HOLE
@@ -340,7 +336,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 347_lightening,lightening,1654,LIGHTNING
 348_pond,pond,2035,POND
 349_sunshine,sunshine,3276,SUNSHINE
-350_corruptfile,(corrupt file),,
 351_1person,1 (person),,
 352_2persons,2 (persons),,
 353_3persons,3 (persons),,
@@ -437,10 +432,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 445_osister,o. sister,1758,OLDER SISTER
 446_ysister,y. sister,1761,YOUNGER SISTER
 447_son,son,1620,SON
-448_artisan,artisan,,
-449_daughterinlaw,daughter-in-law,1057,DAUGHTER-IN-LAW
-450_nung,nung,,
-451_widower,widower,1981,WIDOWER
 452_yousg,you (sg),1215,THOU
 453_we,we,1212,WE
 454_i,I,1209,I
@@ -492,7 +483,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 501_carrot,carrot,3085,CARROT
 502_tomato,tomato,986,TOMATO
 503_greenbean,green bean,,
-504_sesame,sesame,2797,SESAME
 505_soybeansprout,soybean sprout,,
 506_ingredients,ingredients,,
 507_oil,oil,2556,OIL (HYDROPHOBIC LIQUID)
@@ -526,9 +516,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 536_treetrunk,tree trunk,344,TREE TRUNK
 537_vegetable,vegetable,924,VEGETABLES
 538_winealcohol,wine/alcohol,404,ALCOHOL (FERMENTED DRINK)
-539_moss,moss,637,MOSS
-540_mustards,mustards,3181,MUSTARD
-541_pomelo,pomelo,,
 542_when,when,1238,WHEN
 543_where,where,1237,WHERE
 544_who,who,1235,WHO
@@ -542,7 +529,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 552_noon,noon,12,MIDDAY
 553_yesterday,yesterday,1174,YESTERDAY
 554_tomorrow,tomorrow,1329,TOMORROW
-555_newyear,new year,,
 556_afternoon,afternoon,1807,AFTERNOON
 557_evening,evening,1629,EVENING
 558_midday,midday,12,MIDDAY
