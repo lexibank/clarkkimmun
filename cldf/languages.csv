@@ -1,3 +1,3 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Country,Name_in_Source
-KimMunLaos,"Luang Nam Tha, Laos",,,,,20.95,101.4,,,
-KimMunLaocai,"Lao Cai, Vietnam",,,,,22.33,104,,,
+KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Eurasia,20.95,101.4,Hmong-Mien,Laos,
+KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Eurasia,22.33,104,Hmong-Mien,Vietnam,
