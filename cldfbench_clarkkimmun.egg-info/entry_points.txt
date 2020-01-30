@@ -1,0 +1,3 @@
+[cldfbench.dataset]
+clarkkimmun = cldfbench_clarkkimmun:Dataset
+
