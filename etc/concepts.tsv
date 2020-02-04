@@ -413,378 +413,377 @@ ID	GLOSS	SCategory	NewCategory	CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTE
 412	I (1s)	People	People	1209	I	Laos
 413	thou (2s)	People	People	1215	THOU	Laos
 414	he/she/it	People	People	262	HE OR SHE OR IT	Laos
-415	he/she/it	People	People	262	HE OR SHE OR IT	Laos
-416	we (1p)	People	People	1212	WE	Laos
-417	you (2p)	People	People	1213	YOU	Laos
-418	father	People	People	1217	FATHER	Laos
-419	brother (elder of f)	People	People	2415	OLDER BROTHER (OF WOMAN)	Laos
-420	brother (elder of m)	People	People	2414	OLDER BROTHER (OF MAN)	Laos
-421	sister (elder of f)	People	People	2419	OLDER SISTER (OF WOMAN)	Laos
-422	sister (elder of m)	People	People	2418	OLDER SISTER (OF MAN)	Laos
-423	brother(younger of f)	People	People	2417	YOUNGER BROTHER (OF WOMAN)	Laos
-424	brother(younger of m)	People	People	2416	YOUNGER BROTHER (OF MAN)	Laos
-425	sister (younger of f)	People	People	2421	YOUNGER SISTER (OF WOMAN)	Laos
-426	sister (younger of m)	People	People	2420	YOUNGER SISTER (OF MAN)	Laos
-427	friend	People	People	1325	FRIEND	Laos
-428	ancestor	People	People	1669	ANCESTORS	Vietnam
-429	bride	People	People	1266	BRIDE	Vietnam
-430	o. brother	People	People	1759	OLDER BROTHER	Vietnam
-431	y. brother	People	People	1760	YOUNGER BROTHER	Vietnam
-432	daughter	People	People	1357	DAUGHTER	Vietnam
-433	descendant	People	People	490	DESCENDANTS	Vietnam
-434	father’s older brother	People	People	2173	PATERNAL UNCLE (FATHER'S OLDER BROTHER)	Vietnam
-435	father’s younger brother	People	People	2174	PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)	Vietnam
-436	grandfather	People	People	1383	GRANDFATHER	Vietnam
-437	grandmother	People	People	1496	GRANDMOTHER	Vietnam
-438	groom	People	People	3282	GROOM	Vietnam
-439	guest	People	People	1782	GUEST	Vietnam
-440	host, owner	People	People	1545	HOST	Vietnam
-441	lover	People	People			Vietnam
-442	mother’s brother	People	People	2692	MATERNAL UNCLE (MOTHER'S BROTHER)	Vietnam
-443	mother’s mother	People	People	2177	MATERNAL GRANDMOTHER	Vietnam
-444	mother’s sister	People	People	2693	MATERNAL AUNT (MOTHER'S SISTER)	Vietnam
-445	o. sister	People	People	1758	OLDER SISTER	Vietnam
-446	y. sister	People	People	1761	YOUNGER SISTER	Vietnam
-447	son	People	People	1620	SON	Vietnam
-448	artisan	People	People			Vietnam
-449	daughter-in-law	People	People	1057	DAUGHTER-IN-LAW	Vietnam
-450	nung	People	People			Vietnam
-451	widower	People	People	1981	WIDOWER	Vietnam
-452	you (sg)	Pronouns	People	1215	THOU	Vietnam
-453	we	Pronouns	People	1212	WE	Vietnam
-454	I	Pronouns	People	1209	I	Vietnam
-455	he	Pronouns	People	1211	HE	Vietnam
-456	you (pl)	Pronouns	People	1213	YOU	Vietnam
-457	forest	Nature	Plants, Food	420	FOREST	
-458	salt	Nature	Plants, Food	1274	SALT	
-459	banana	Vegetable/Food	Plants, Food	868	BANANA	
-460	bean	Vegetable/Food	Plants, Food	2574	BEAN OR PEA	
-461	cucumber	Vegetable/Food	Plants, Food	496	CUCUMBER	
-462	eggplant	Vegetable/Food	Plants, Food	1146	AUBERGINE	
-463	fat	Vegetable/Food	Plants, Food	2449	FAT (OF MEAT AND FOOD)	
-464	flower	Vegetable/Food	Plants, Food	239	FLOWER	
-465	fruit	Vegetable/Food	Plants, Food	1507	FRUIT	
-466	garlic	Vegetable/Food	Plants, Food	2368	GARLIC	
-467	grass	Vegetable/Food	Plants, Food	606	GRASS	
-468	leaf	Vegetable/Food	Plants, Food	628	LEAF	
-469	medicine	Vegetable/Food	Plants, Food	1372	MEDICINE	
-470	mushroom	Vegetable/Food	Plants, Food	641	MUSHROOM	
-471	pumpkin	Vegetable/Food	Plants, Food	864	PUMPKIN	
-472	sugarcane	Vegetable/Food	Plants, Food	146	SUGAR CANE	
-473	taro	Vegetable/Food	Plants, Food	351	TARO	
-474	thorn	Vegetable/Food	Plants, Food	124	THORN	
-475	tree	Vegetable/Food	Plants, Food	906	TREE	
-476	onion	Vegetable/Food	Plants, Food	2366	ONION	
-477	sprout	Plants, Food	Plants, Food	3358	SPROUT (SHOOT)	Laos
-478	tree shade	Plants, Food	Plants, Food			Laos
-479	petals of a flower	Plants, Food	Plants, Food			Laos
-480	peel	Plants, Food	Plants, Food	275	PEEL	Laos
-481	branch	Plants, Food	Plants, Food	1531	BRANCH	Laos
-482	tree bark	Plants, Food	Plants, Food	1204	BARK	Laos
-483	root	Plants, Food	Plants, Food	670	ROOT	Laos
-484	seed	Plants, Food	Plants, Food	714	SEED	Laos
-485	bamboo	Plants, Food	Plants, Food	1927	BAMBOO	Laos
-486	bamboo shoot	Plants, Food	Plants, Food	2494	BAMBOO SHOOT	Laos
-487	bamboo pole	Plants, Food	Plants, Food			Laos
-488	coconut tree	Plants, Food	Plants, Food	147	COCONUT TREE	Laos
-489	betelnut	Plants, Food	Plants, Food	217	BETELNUT	Laos
-490	papaya	Plants, Food	Plants, Food	2445	PAPAYA	Laos
-491	mango	Plants, Food	Plants, Food	2398	MANGO	Laos
-492	coconut	Plants, Food	Plants, Food	970	COCONUT	Laos
-493	pineapple	Plants, Food	Plants, Food	2440	PINEAPPLE	Laos
-494	watermelon	Plants, Food	Plants, Food	2766	WATERMELON	Laos
-495	apple	Plants, Food	Plants, Food	1320	APPLE	Laos
-496	peanut	Plants, Food	Plants, Food	2364	PEANUT	Laos
-497	ginger	Plants, Food	Plants, Food	2500	GINGER	Laos
-498	rice husk	Plants, Food	Plants, Food	2501	RICE HUSK	Laos
-499	sweet potato	Plants, Food	Plants, Food	159	SWEET POTATO	Laos
-500	potato	Plants, Food	Plants, Food	593	POTATO	Laos
-501	carrot	Plants, Food	Plants, Food	3085	CARROT	Laos
-502	tomato	Plants, Food	Plants, Food	986	TOMATO	Laos
-503	green bean	Plants, Food	Plants, Food			Laos
-504	sesame	Plants, Food	Plants, Food	2797	SESAME	Laos
-505	soybean sprout	Plants, Food	Plants, Food			Laos
-506	ingredients	Plants, Food	Plants, Food			Laos
-507	oil	Plants, Food	Plants, Food	2556	OIL (HYDROPHOBIC LIQUID)	Laos
-508	soy sauce	Plants, Food	Plants, Food	1968	SOYA SAUCE	Laos
-509	sugar	Plants, Food	Plants, Food	862	SUGAR	Laos
-510	white sugar	Plants, Food	Plants, Food	3441	WHITE SUGAR	Laos
-511	spices	Plants, Food	Plants, Food			Laos
-512	black pepper	Plants, Food	Plants, Food			Laos
-513	boiling water	Plants, Food	Plants, Food	3362	BOILED WATER	Laos
-514	tea	Plants, Food	Plants, Food	1373	TEA	Laos
-515	wine	Plants, Food	Plants, Food	1524	WINE	Laos
-516	cigarette	Plants, Food	Plants, Food	969	CIGARETTE	Laos
-517	cutting board	Plants, Food	Plants, Food			Laos
-518	wood	Plants, Food	Plants, Food	1803	WOOD	Laos
-519	banana flower	Vegetable/Food	Plants, Food			Vietnam
-520	banana leaf	Vegetable/Food	Plants, Food			Vietnam
-521	cabbage	Vegetable/Food	Plants, Food	774	CABBAGE	Vietnam
-522	chili pepper	Vegetable/Food	Plants, Food	919	CHILI PEPPER	Vietnam
-523	cogongrass	Vegetable/Food	Plants, Food			Vietnam
-524	corn	Vegetable/Food	Plants, Food	506	MAIZE	Vietnam
-525	cotton	Vegetable/Food	Plants, Food	1850	COTTON	Vietnam
-526	indigo	Vegetable/Food	Plants, Food			Vietnam
-527	melon	Vegetable/Food	Plants, Food	507	MELON	Vietnam
-528	rice	Vegetable/Food	Plants, Food	926	RICE	Vietnam
-529	rice glutinous	Vegetable/Food	Plants, Food	2750	GLUTINOUS RICE	Vietnam
-530	rice grilled	Vegetable/Food	Plants, Food			Vietnam
-531	porridge	Vegetable/Food	Plants, Food	2049	CONGEE	Vietnam
-532	ricedgi.wav	Vegetable/Food	Plants, Food			Vietnam
-533	rice spike	Vegetable/Food	Plants, Food	1249	SPIKE	Vietnam
-534	soup	Vegetable/Food	Plants, Food	1547	SOUP	Vietnam
-535	tobacco	Vegetable/Food	Plants, Food	974	TOBACCO	Vietnam
-536	tree trunk	Vegetable/Food	Plants, Food	344	TREE TRUNK	Vietnam
-537	vegetable	Vegetable/Food	Plants, Food	924	VEGETABLES	Vietnam
-538	wine/alcohol	Vegetable/Food	Plants, Food	404	ALCOHOL (FERMENTED DRINK)	Vietnam
-539	moss	Vegetable/Food	Plants, Food	637	MOSS	Vietnam
-540	mustards	Vegetable/Food	Plants, Food	3181	MUSTARD	Vietnam
-541	pomelo	Vegetable/Food	Plants, Food			Vietnam
-542	when	Question Words	Question Words	1238	WHEN	Laos
-543	where	Question Words	Question Words	1237	WHERE	Laos
-544	who	Question Words	Question Words	1235	WHO	Laos
-545	what	Question Words	Question Words	1236	WHAT	Laos
-546	how many	Question Words	Question Words	822	HOW MANY	Laos
-547	day	Time	Time	1260	DAY (24 HOURS)	
-548	morning	Time	Time	1339	MORNING	
-549	night	Time	Time	1233	NIGHT	
-550	year	Time	Time	1226	YEAR	
-551	nice day, fine day	Nature	Time			Laos
-552	noon	Nature	Time	12	MIDDAY	Laos
-553	yesterday	Nature	Time	1174	YESTERDAY	Laos
-554	tomorrow	Nature	Time	1329	TOMORROW	Laos
-555	new year	Time	Time			Vietnam
-556	afternoon	Time	Time	1807	AFTERNOON	Vietnam
-557	evening	Time	Time	1629	EVENING	Vietnam
-558	midday	Time	Time	12	MIDDAY	Vietnam
-559	comb	Apparel	Tools	1475	COMB	
-560	needle	Apparel	Tools	1382	NEEDLE (FOR SEWING)	
-561	axe	Tools	Tools	677	AXE	
-562	bowl	Tools	Tools	1530	BOWL	
-563	chopsticks	Tools	Tools	1987	CHOPSTICKS	
-564	hammer	Tools	Tools	1481	HAMMER	
-565	knife	Tools	Tools	1352	KNIFE	
-566	cover	Plants, Food	Tools	761	COVER	Laos
-567	dish	Plants, Food	Tools	481	DISH	Laos
-568	bottle	Plants, Food	Tools	1321	BOTTLE	Laos
-569	cup	Plants, Food	Tools	476	CUP	Laos
-570	paper, cord	Home	Tools	648	PAPER	Laos
-571	pot (cooking-)	Home	Tools	1462	POT	Laos
-572	spoon	Home	Tools	1378	SPOON	Laos
-573	candle	Home	Tools	1273	CANDLE	Laos
-574	tools	Home	Tools	1361	TOOL	Laos
-575	scissors	Home	Tools	1328	SCISSORS	Laos
-576	ropes	Home	Tools	1218	ROPE	Laos
-577	basket	Home	Tools	1539	BASKET	Laos
-578	whistle	Home	Tools	3107	WHISTLE (INSTRUMENT)	Laos
-579	matches	Home	Tools	1133	MATCH	Laos
-580	frying pan	Plants, Food	Tools	31	PAN	Laos
-581	awl	Tools	Tools	278	AWL	Vietnam
-582	bag	Tools	Tools	2468	BAG	Vietnam
-583	basket i	Tools	Tools	1539	BASKET	Vietnam
-584	basket ri	Tools	Tools	1539	BASKET	Vietnam
-585	basket wi	Tools	Tools	1539	BASKET	Vietnam
-586	fire tongs	Tools	Tools	272	TONGS	Vietnam
-587	fishnet	Tools	Tools	388	FISHNET	Vietnam
-588	harrow	Tools	Tools	2545	HARROW (TOOL)	Vietnam
-589	hoe	Tools	Tools	284	HOE	Vietnam
-590	masher	Tools	Tools			Vietnam
-591	plane	Tools	Tools	1597	AIRPLANE	Vietnam
-592	plow	Tools	Tools	2154	PLOUGH (INSTRUMENT)	Vietnam
-593	carrying pole	Tools	Tools	3432	SHOULDER POLE	Vietnam
-594	rope	Tools	Tools	1218	ROPE	Vietnam
-595	sickle	Tools	Tools	341	SICKLE	Vietnam
-596	anvil	Tools	Tools	1648	ANVIL	Vietnam
-597	chisel	Tools	Tools	1979	CHISEL	Vietnam
-598	peg	Tools	Tools	361	PEG	Vietnam
-599	pot	Tools	Tools	1462	POT	Vietnam
-600	coop	Town	Tools			Vietnam
-601	firewood	Town	Tools	10	FIREWOOD	Vietnam
-602	boat	Town	Town	1844	BOAT	
-603	village	Town	Town	930	VILLAGE	
-604	road, path	Home	Town	2457	PATH OR ROAD	Laos
-605	bridge	Town	Town	1011	BRIDGE	Vietnam
-606	dock, boat	Town	Town			Vietnam
-607	grave	Town	Town	1773	GRAVE	Vietnam
-608	paddy	Town	Town	140	PADDY FIELD	Vietnam
-609	plot dry	Town	Town			Vietnam
-610	wet field	Town	Town	140	PADDY FIELD	Vietnam
-611	road	Town	Town	2457	PATH OR ROAD	Vietnam
-612	well (water)	Town	Town	954	WELL	Vietnam
-613	to walk	Verbs	Verbs	1443	WALK	
-614	to wait	Verbs	Verbs	1590	WAIT (FOR)	
-615	to tell	Verbs	Verbs	1711	TELL	
-616	to swim	Verbs	Verbs	1439	SWIM	
-617	to stir	Verbs	Verbs	696	STIR	
-618	to steam	Verbs	Verbs	2067	STEAM (VERB)	
-619	to steal	Verbs	Verbs	713	STEAL	
-620	to stand	Verbs	Verbs	1442	STAND	
-621	to smoke	Verbs	Verbs	1689	SMOKE (INHALE)	
-622	to sleep	Verbs	Verbs	1585	SLEEP	
-623	to sit	Verbs	Verbs	1416	SIT	
-624	to sell	Verbs	Verbs	1571	SELL	
-625	to see	Verbs	Verbs	1409	SEE	
-626	to roast	Verbs	Verbs	1962	ROAST (SOMETHING)	
-627	to return	Verbs	Verbs	581	COME BACK	
-628	to pull	Verbs	Verbs	1455	PULL	
-629	to know	Verbs	Verbs	3626	KNOW	
-630	to hear	Verbs	Verbs	1408	HEAR	
-631	to give	Verbs	Verbs	1447	GIVE	
-632	to forget	Verbs	Verbs	1523	FORGET	
-633	to fly	Verbs	Verbs	1441	FLY (MOVE THROUGH AIR)	
-634	to eat	Verbs	Verbs	1336	EAT	
-635	to drink	Verbs	Verbs	1401	DRINK	
-636	to dip	Verbs	Verbs	3697	DIP	
-637	to die	Verbs	Verbs	1494	DIE	
-638	to come	Verbs	Verbs	1446	COME	
-639	to buy	Verbs	Verbs	1869	BUY	
-640	to blow	Verbs	Verbs	176	BLOW (WITH MOUTH)	
-641	to bite	Verbs	Verbs	1403	BITE	
-642	to answer	Verbs	Verbs	1275	ANSWER	
-643	to bake	Plants, Food	Verbs	183	BAKE	Laos
-644	to taste	Plants, Food	Verbs	21	TASTE (SOMETHING)	Laos
-645	to set the table	Plants, Food	Verbs			Laos
-646	to grow	Plants, Food	Verbs	479	GROW	Laos
-647	to sprout	Plants, Food	Verbs	2076	SPROUT (VERB)	Laos
-648	to ripen	Plants, Food	Verbs	179	RIPEN	Laos
-649	to wither	Plants, Food	Verbs			Laos
-650	to decay	Plants, Food	Verbs	2907	ROT	Laos
-651	to bark	Animals	Verbs	1206	BARKING	Laos
-652	to melt	Nature	Verbs	2334	MELT	Laos
-653	to weave ( cloth )	Home	Verbs	133	WEAVE	Laos
-654	to dye ( cloth )	Home	Verbs	157	DYE	Laos
-655	to sew	Home	Verbs	1457	SEW	Laos
-656	to move	Home	Verbs	765	MOVE	Laos
-657	to sharpen a knife	Home	Verbs	251	SHARPEN (SOMETHING)	Laos
-658	to pierce	Home	Verbs	398	PIERCE	Laos
-659	to hammer	Home	Verbs	3115	HAMMER (SOMETHING)	Laos
-660	to roll	Home	Verbs	827	ROLL	Laos
-661	smell	Verbs	Verbs	1586	SMELL (PERCEIVE)	Laos
-662	to wink	Verbs	Verbs	1655	BLINK	Laos
-663	to weep	Verbs	Verbs	1839	CRY	Laos
-664	to swallow	Verbs	Verbs	897	SWALLOW	Laos
-665	to be hungry	Verbs	Verbs	1533	BE HUNGRY	Laos
-666	to be full	Verbs	Verbs	1429	FULL	Laos
-667	to be thirsty	Verbs	Verbs	3474	BE THIRSTY	Laos
-668	to be drunk	Verbs	Verbs	1463	DRUNK	Laos
-669	to vomit	Verbs	Verbs	1278	VOMIT	Laos
-670	to spit	Verbs	Verbs	1440	SPIT	Laos
-671	to cough	Verbs	Verbs	879	COUGH	Laos
-672	to sneeze	Verbs	Verbs	1621	SNEEZE	Laos
-673	to yawn	Verbs	Verbs	1028	YAWN	Laos
-674	to breathe	Verbs	Verbs	1407	BREATHE	Laos
-675	to suck	Verbs	Verbs	1421	SUCK	Laos
-676	to lick	Verbs	Verbs	319	LICK	Laos
-677	to smile	Verbs	Verbs	1451	SMILE	Laos
-678	to laugh	Verbs	Verbs	1355	LAUGH	Laos
-679	to speak	Verbs	Verbs	1623	SPEAK	Laos
-680	to shout	Verbs	Verbs	715	SHOUT	Laos
-681	to lie, fib	Verbs	Verbs	601	LIE (MISLEAD)	Laos
-682	to sing	Verbs	Verbs	1261	SING	Laos
-683	to think	Verbs	Verbs	2271	THINK	Laos
-684	to love	Verbs	Verbs	923	LOVE	Laos
-685	to hate	Verbs	Verbs	1607	HATE	Laos
-686	to count	Verbs	Verbs	1420	COUNT	Laos
-687	to be afraid	Verbs	Verbs	1419	FEAR (BE AFRAID)	Laos
-688	to be angry	Verbs	Verbs	2223	BE ANGRY	Laos
-689	to snore	Verbs	Verbs	1983	SNORE	Laos
-690	to dream	Verbs	Verbs	1920	DREAM (SOMETHING)	Laos
-691	to itch	Verbs	Verbs	148	ITCH	Laos
-692	to scratch	Verbs	Verbs	1436	SCRATCH	Laos
-693	to shiver	Verbs	Verbs	52	SHIVER	Laos
-694	ghost	Verbs	Verbs	1175	GHOST	Laos
-695	to kneel	Verbs	Verbs	66	KNEEL	Laos
-696	to crawl	Verbs	Verbs	96	CRAWL	Laos
-697	to enter	Verbs	Verbs	749	ENTER	Laos
-698	to push	Verbs	Verbs	1452	PUSH	Laos
-699	to kick	Verbs	Verbs	1135	KICK	Laos
-700	to throw	Verbs	Verbs	1456	THROW	Laos
-701	to fall	Verbs	Verbs	1280	FALL	Laos
-702	to tie	Verbs	Verbs	1917	TIE	Laos
-703	to wipe	Verbs	Verbs	1454	WIPE	Laos
-704	to hit	Verbs	Verbs	1433	HIT	Laos
-705	to split	Verbs	Verbs	1437	SPLIT	Laos
-706	to cut (hair)	Verbs	Verbs	2155	CUT (WITH SCISSORS)	Laos
-707	to stab	Verbs	Verbs	1434	STAB	Laos
-708	to grind	Verbs	Verbs	1033	GRIND	Laos
-709	to plant	Verbs	Verbs	1486	PLANT (SOMETHING)	Laos
-710	to dig	Verbs	Verbs	1418	DIG	Laos
-711	to bury (a corpse)	Verbs	Verbs	1719	BURY	Laos
-712	to dry (sth.)	Verbs	Verbs	1398	DRY	Laos
-713	to pound (rice)	Verbs	Verbs	354	POUND	Laos
-714	to boil (sth.)	Verbs	Verbs	2492	BOIL (SOMETHING)	Laos
-715	to burn	Verbs	Verbs	2102	BURN	Laos
-716	to work	Verbs	Verbs	1086	WORK (ACTIVITY)	Laos
-717	to play	Verbs	Verbs	1413	PLAY	Laos
-718	to dance	Verbs	Verbs	1879	DANCE	Laos
-719	to shoot	Verbs	Verbs	1172	SHOOT	Laos
-720	to hunt	Verbs	Verbs	1435	HUNT	Laos
-721	to fight	Verbs	Verbs	1423	FIGHT	Laos
-722	to exchange	Verbs	Verbs	2509	EXCHANGE	Laos
-723	to disappear	Verbs	Verbs	485	DISAPPEAR	Laos
-724	to flow	Nature	Verbs	2003	FLOW	Laos
-725	to float	Nature	Verbs	1574	FLOAT	Laos
-726	to sink	Nature	Verbs	1088	SINK (DESCEND)	Laos
-727	to twinkle	Nature	Verbs	2889	TWINKLE	Laos
-728	to cook (rice)	Plants, Food	Verbs	1100	COOK (SOMETHING)	Laos
-729	to wash rice	Plants, Food	Verbs	1453	WASH	Laos
-730	to cut into pieces	Plants, Food	Verbs	2149	CHOP (INTO PIECES)	Laos
-731	to cut into slices	Plants, Food	Verbs			Laos
-732	to chop/mince	Plants, Food	Verbs	2149	CHOP (INTO PIECES)	Laos
-733	to knead (a dough)	Plants, Food	Verbs	274	KNEAD	Laos
-734	to pound (garlic)	Plants, Food	Verbs	354	POUND	Laos
-735	to put in (ingredients)	Plants, Food	Verbs	998	PUT	Laos
-736	to pour over	Plants, Food	Verbs	1487	POUR	Laos
-737	to squeeze	Plants, Food	Verbs	1414	SQUEEZE	Laos
-738	to crack an egg	Plants, Food	Verbs			Laos
-739	to boil	Plants, Food	Verbs	792	BOIL (OF LIQUID)	Laos
-740	to stir fry, to fry	Plants, Food	Verbs	2162	STIR FRY	Laos
-741	to fry in fat/oil	Plants, Food	Verbs	991	FRY	Laos
-742	to wash	Verbs	Verbs	1453	WASH	Vietnam
-743	to write	Verbs	Verbs	1672	WRITE	Vietnam
-744	to tear	Verbs	Verbs	1735	TEAR (SHRED)	Vietnam
-745	to talk	Verbs	Verbs	2708	TALK	Vietnam
-746	to stoke	Verbs	Verbs			Vietnam
-747	to soak	Verbs	Verbs	2069	SOAK (VERB)	Vietnam
-748	to smell	Verbs	Verbs	2124	SMELL	Vietnam
-749	to slash	Verbs	Verbs			Vietnam
-750	to set trap	Verbs	Verbs			Vietnam
-751	to scrape	Verbs	Verbs	1767	SCRAPE	Vietnam
-752	to scold	Verbs	Verbs	299	SCOLD	Vietnam
-753	to run	Verbs	Verbs	1519	RUN	Vietnam
-754	to roar	Verbs	Verbs	2876	ROAR (OF SEA)	Vietnam
-755	to ride horse	Verbs	Verbs	367	RIDE	Vietnam
-756	to rest	Verbs	Verbs	168	REST	Vietnam
-757	to remember	Verbs	Verbs	707	REMEMBER	Vietnam
-758	to pull gr	Verbs	Verbs	1455	PULL	Vietnam
-759	to pat	Verbs	Verbs	2133	STRIKE OR BEAT	Vietnam
-760	to open mr	Verbs	Verbs			Vietnam
-761	to mow	Verbs	Verbs	190	MOW	Vietnam
-762	to marry w	Verbs	Verbs			Vietnam
-763	to marry d	Verbs	Verbs			Vietnam
-764	to like	Verbs	Verbs	1117	LIKE	Vietnam
-765	to kill	Verbs	Verbs	1417	KILL	Vietnam
-766	to hone kn	Verbs	Verbs			Vietnam
-767	to hide	Verbs	Verbs	2486	HIDE	Vietnam
-768	to go	Verbs	Verbs	695	GO	Vietnam
-769	to give birth	Verbs	Verbs	1195	GIVE BIRTH	Vietnam
-770	to fry	Verbs	Verbs	991	FRY	Vietnam
-771	to fear	Verbs	Verbs	1419	FEAR (BE AFRAID)	Vietnam
-772	to fall down	Verbs	Verbs	1280	FALL	Vietnam
-773	to explode	Verbs	Verbs			Vietnam
-774	to sun dry	Verbs	Verbs	3364	DRY IN SUN	Vietnam
-775	to draw water	Verbs	Verbs	1911	DRAW (WATER)	Vietnam
-776	to drain	Verbs	Verbs			Vietnam
-777	to cut w/ scissors	Verbs	Verbs	2155	CUT (WITH SCISSORS)	Vietnam
-778	to cut w/ knife	Verbs	Verbs	2156	CUT (WITH KNIFE)	Vietnam
-779	to crow	Verbs	Verbs	2074	CROW (VERB)	Vietnam
-780	to cook	Verbs	Verbs	1100	COOK (SOMETHING)	Vietnam
-781	to chew	Verbs	Verbs	321	CHEW	Vietnam
-782	to chase	Verbs	Verbs	1047	PURSUE	Vietnam
-783	to carry	Verbs	Verbs	700	CARRY	Vietnam
-784	to be able	Verbs	Verbs	972	BE ABLE	Vietnam
-785	to bathe	Verbs	Verbs	138	BATHE	Vietnam
-786	to dark	Verbs	Verbs	706	DARK	Vietnam
-787	to arrive	Verbs	Verbs	1387	ARRIVE	Vietnam
-788	to arise	Verbs	Verbs			Vietnam
-789	to accept	Pronouns	Verbs	694	GET	Vietnam
+415	we (1p)	People	People	1212	WE	Laos
+416	you (2p)	People	People	1213	YOU	Laos
+417	father	People	People	1217	FATHER	Laos
+418	brother (elder of f)	People	People	2415	OLDER BROTHER (OF WOMAN)	Laos
+419	brother (elder of m)	People	People	2414	OLDER BROTHER (OF MAN)	Laos
+420	sister (elder of f)	People	People	2419	OLDER SISTER (OF WOMAN)	Laos
+421	sister (elder of m)	People	People	2418	OLDER SISTER (OF MAN)	Laos
+422	brother(younger of f)	People	People	2417	YOUNGER BROTHER (OF WOMAN)	Laos
+423	brother(younger of m)	People	People	2416	YOUNGER BROTHER (OF MAN)	Laos
+424	sister (younger of f)	People	People	2421	YOUNGER SISTER (OF WOMAN)	Laos
+425	sister (younger of m)	People	People	2420	YOUNGER SISTER (OF MAN)	Laos
+426	friend	People	People	1325	FRIEND	Laos
+427	ancestor	People	People	1669	ANCESTORS	Vietnam
+428	bride	People	People	1266	BRIDE	Vietnam
+429	o. brother	People	People	1759	OLDER BROTHER	Vietnam
+430	y. brother	People	People	1760	YOUNGER BROTHER	Vietnam
+431	daughter	People	People	1357	DAUGHTER	Vietnam
+432	descendant	People	People	490	DESCENDANTS	Vietnam
+433	father’s older brother	People	People	2173	PATERNAL UNCLE (FATHER'S OLDER BROTHER)	Vietnam
+434	father’s younger brother	People	People	2174	PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)	Vietnam
+435	grandfather	People	People	1383	GRANDFATHER	Vietnam
+436	grandmother	People	People	1496	GRANDMOTHER	Vietnam
+437	groom	People	People	3282	GROOM	Vietnam
+438	guest	People	People	1782	GUEST	Vietnam
+439	host, owner	People	People	1545	HOST	Vietnam
+440	lover	People	People			Vietnam
+441	mother’s brother	People	People	2692	MATERNAL UNCLE (MOTHER'S BROTHER)	Vietnam
+442	mother’s mother	People	People	2177	MATERNAL GRANDMOTHER	Vietnam
+443	mother’s sister	People	People	2693	MATERNAL AUNT (MOTHER'S SISTER)	Vietnam
+444	o. sister	People	People	1758	OLDER SISTER	Vietnam
+445	y. sister	People	People	1761	YOUNGER SISTER	Vietnam
+446	son	People	People	1620	SON	Vietnam
+447	artisan	People	People			Vietnam
+448	daughter-in-law	People	People	1057	DAUGHTER-IN-LAW	Vietnam
+449	nung	People	People			Vietnam
+450	widower	People	People	1981	WIDOWER	Vietnam
+451	you (sg)	Pronouns	People	1215	THOU	Vietnam
+452	we	Pronouns	People	1212	WE	Vietnam
+453	I	Pronouns	People	1209	I	Vietnam
+454	he	Pronouns	People	1211	HE	Vietnam
+455	you (pl)	Pronouns	People	1213	YOU	Vietnam
+456	forest	Nature	Plants, Food	420	FOREST	
+457	salt	Nature	Plants, Food	1274	SALT	
+458	banana	Vegetable/Food	Plants, Food	868	BANANA	
+459	bean	Vegetable/Food	Plants, Food	2574	BEAN OR PEA	
+460	cucumber	Vegetable/Food	Plants, Food	496	CUCUMBER	
+461	eggplant	Vegetable/Food	Plants, Food	1146	AUBERGINE	
+462	fat	Vegetable/Food	Plants, Food	2449	FAT (OF MEAT AND FOOD)	
+463	flower	Vegetable/Food	Plants, Food	239	FLOWER	
+464	fruit	Vegetable/Food	Plants, Food	1507	FRUIT	
+465	garlic	Vegetable/Food	Plants, Food	2368	GARLIC	
+466	grass	Vegetable/Food	Plants, Food	606	GRASS	
+467	leaf	Vegetable/Food	Plants, Food	628	LEAF	
+468	medicine	Vegetable/Food	Plants, Food	1372	MEDICINE	
+469	mushroom	Vegetable/Food	Plants, Food	641	MUSHROOM	
+470	pumpkin	Vegetable/Food	Plants, Food	864	PUMPKIN	
+471	sugarcane	Vegetable/Food	Plants, Food	146	SUGAR CANE	
+472	taro	Vegetable/Food	Plants, Food	351	TARO	
+473	thorn	Vegetable/Food	Plants, Food	124	THORN	
+474	tree	Vegetable/Food	Plants, Food	906	TREE	
+475	onion	Vegetable/Food	Plants, Food	2366	ONION	
+476	sprout	Plants, Food	Plants, Food	3358	SPROUT (SHOOT)	Laos
+477	tree shade	Plants, Food	Plants, Food			Laos
+478	petals of a flower	Plants, Food	Plants, Food			Laos
+479	peel	Plants, Food	Plants, Food	275	PEEL	Laos
+480	branch	Plants, Food	Plants, Food	1531	BRANCH	Laos
+481	tree bark	Plants, Food	Plants, Food	1204	BARK	Laos
+482	root	Plants, Food	Plants, Food	670	ROOT	Laos
+483	seed	Plants, Food	Plants, Food	714	SEED	Laos
+484	bamboo	Plants, Food	Plants, Food	1927	BAMBOO	Laos
+485	bamboo shoot	Plants, Food	Plants, Food	2494	BAMBOO SHOOT	Laos
+486	bamboo pole	Plants, Food	Plants, Food			Laos
+487	coconut tree	Plants, Food	Plants, Food	147	COCONUT TREE	Laos
+488	betelnut	Plants, Food	Plants, Food	217	BETELNUT	Laos
+489	papaya	Plants, Food	Plants, Food	2445	PAPAYA	Laos
+490	mango	Plants, Food	Plants, Food	2398	MANGO	Laos
+491	coconut	Plants, Food	Plants, Food	970	COCONUT	Laos
+492	pineapple	Plants, Food	Plants, Food	2440	PINEAPPLE	Laos
+493	watermelon	Plants, Food	Plants, Food	2766	WATERMELON	Laos
+494	apple	Plants, Food	Plants, Food	1320	APPLE	Laos
+495	peanut	Plants, Food	Plants, Food	2364	PEANUT	Laos
+496	ginger	Plants, Food	Plants, Food	2500	GINGER	Laos
+497	rice husk	Plants, Food	Plants, Food	2501	RICE HUSK	Laos
+498	sweet potato	Plants, Food	Plants, Food	159	SWEET POTATO	Laos
+499	potato	Plants, Food	Plants, Food	593	POTATO	Laos
+500	carrot	Plants, Food	Plants, Food	3085	CARROT	Laos
+501	tomato	Plants, Food	Plants, Food	986	TOMATO	Laos
+502	green bean	Plants, Food	Plants, Food			Laos
+503	sesame	Plants, Food	Plants, Food	2797	SESAME	Laos
+504	soybean sprout	Plants, Food	Plants, Food			Laos
+505	ingredients	Plants, Food	Plants, Food			Laos
+506	oil	Plants, Food	Plants, Food	2556	OIL (HYDROPHOBIC LIQUID)	Laos
+507	soy sauce	Plants, Food	Plants, Food	1968	SOYA SAUCE	Laos
+508	sugar	Plants, Food	Plants, Food	862	SUGAR	Laos
+509	white sugar	Plants, Food	Plants, Food	3441	WHITE SUGAR	Laos
+510	spices	Plants, Food	Plants, Food			Laos
+511	black pepper	Plants, Food	Plants, Food			Laos
+512	boiling water	Plants, Food	Plants, Food	3362	BOILED WATER	Laos
+513	tea	Plants, Food	Plants, Food	1373	TEA	Laos
+514	wine	Plants, Food	Plants, Food	1524	WINE	Laos
+515	cigarette	Plants, Food	Plants, Food	969	CIGARETTE	Laos
+516	cutting board	Plants, Food	Plants, Food			Laos
+517	wood	Plants, Food	Plants, Food	1803	WOOD	Laos
+518	banana flower	Vegetable/Food	Plants, Food			Vietnam
+519	banana leaf	Vegetable/Food	Plants, Food			Vietnam
+520	cabbage	Vegetable/Food	Plants, Food	774	CABBAGE	Vietnam
+521	chili pepper	Vegetable/Food	Plants, Food	919	CHILI PEPPER	Vietnam
+522	cogongrass	Vegetable/Food	Plants, Food			Vietnam
+523	corn	Vegetable/Food	Plants, Food	506	MAIZE	Vietnam
+524	cotton	Vegetable/Food	Plants, Food	1850	COTTON	Vietnam
+525	indigo	Vegetable/Food	Plants, Food			Vietnam
+526	melon	Vegetable/Food	Plants, Food	507	MELON	Vietnam
+527	rice	Vegetable/Food	Plants, Food	926	RICE	Vietnam
+528	rice glutinous	Vegetable/Food	Plants, Food	2750	GLUTINOUS RICE	Vietnam
+529	rice grilled	Vegetable/Food	Plants, Food			Vietnam
+530	porridge	Vegetable/Food	Plants, Food	2049	CONGEE	Vietnam
+531	ricedgi.wav	Vegetable/Food	Plants, Food			Vietnam
+532	rice spike	Vegetable/Food	Plants, Food	1249	SPIKE	Vietnam
+533	soup	Vegetable/Food	Plants, Food	1547	SOUP	Vietnam
+534	tobacco	Vegetable/Food	Plants, Food	974	TOBACCO	Vietnam
+535	tree trunk	Vegetable/Food	Plants, Food	344	TREE TRUNK	Vietnam
+536	vegetable	Vegetable/Food	Plants, Food	924	VEGETABLES	Vietnam
+537	wine/alcohol	Vegetable/Food	Plants, Food	404	ALCOHOL (FERMENTED DRINK)	Vietnam
+538	moss	Vegetable/Food	Plants, Food	637	MOSS	Vietnam
+539	mustards	Vegetable/Food	Plants, Food	3181	MUSTARD	Vietnam
+540	pomelo	Vegetable/Food	Plants, Food			Vietnam
+541	when	Question Words	Question Words	1238	WHEN	Laos
+542	where	Question Words	Question Words	1237	WHERE	Laos
+543	who	Question Words	Question Words	1235	WHO	Laos
+544	what	Question Words	Question Words	1236	WHAT	Laos
+545	how many	Question Words	Question Words	822	HOW MANY	Laos
+546	day	Time	Time	1260	DAY (24 HOURS)	
+547	morning	Time	Time	1339	MORNING	
+548	night	Time	Time	1233	NIGHT	
+549	year	Time	Time	1226	YEAR	
+550	nice day, fine day	Nature	Time			Laos
+551	noon	Nature	Time	12	MIDDAY	Laos
+552	yesterday	Nature	Time	1174	YESTERDAY	Laos
+553	tomorrow	Nature	Time	1329	TOMORROW	Laos
+554	new year	Time	Time			Vietnam
+555	afternoon	Time	Time	1807	AFTERNOON	Vietnam
+556	evening	Time	Time	1629	EVENING	Vietnam
+557	midday	Time	Time	12	MIDDAY	Vietnam
+558	comb	Apparel	Tools	1475	COMB	
+559	needle	Apparel	Tools	1382	NEEDLE (FOR SEWING)	
+560	axe	Tools	Tools	677	AXE	
+561	bowl	Tools	Tools	1530	BOWL	
+562	chopsticks	Tools	Tools	1987	CHOPSTICKS	
+563	hammer	Tools	Tools	1481	HAMMER	
+564	knife	Tools	Tools	1352	KNIFE	
+565	cover	Plants, Food	Tools	761	COVER	Laos
+566	dish	Plants, Food	Tools	481	DISH	Laos
+567	bottle	Plants, Food	Tools	1321	BOTTLE	Laos
+568	cup	Plants, Food	Tools	476	CUP	Laos
+569	paper, cord	Home	Tools	648	PAPER	Laos
+570	pot (cooking-)	Home	Tools	1462	POT	Laos
+571	spoon	Home	Tools	1378	SPOON	Laos
+572	candle	Home	Tools	1273	CANDLE	Laos
+573	tools	Home	Tools	1361	TOOL	Laos
+574	scissors	Home	Tools	1328	SCISSORS	Laos
+575	ropes	Home	Tools	1218	ROPE	Laos
+576	basket	Home	Tools	1539	BASKET	Laos
+577	whistle	Home	Tools	3107	WHISTLE (INSTRUMENT)	Laos
+578	matches	Home	Tools	1133	MATCH	Laos
+579	frying pan	Plants, Food	Tools	31	PAN	Laos
+580	awl	Tools	Tools	278	AWL	Vietnam
+581	bag	Tools	Tools	2468	BAG	Vietnam
+582	basket i	Tools	Tools	1539	BASKET	Vietnam
+583	basket ri	Tools	Tools	1539	BASKET	Vietnam
+584	basket wi	Tools	Tools	1539	BASKET	Vietnam
+585	fire tongs	Tools	Tools	272	TONGS	Vietnam
+586	fishnet	Tools	Tools	388	FISHNET	Vietnam
+587	harrow	Tools	Tools	2545	HARROW (TOOL)	Vietnam
+588	hoe	Tools	Tools	284	HOE	Vietnam
+589	masher	Tools	Tools			Vietnam
+590	plane	Tools	Tools	1597	AIRPLANE	Vietnam
+591	plow	Tools	Tools	2154	PLOUGH (INSTRUMENT)	Vietnam
+592	carrying pole	Tools	Tools	3432	SHOULDER POLE	Vietnam
+593	rope	Tools	Tools	1218	ROPE	Vietnam
+594	sickle	Tools	Tools	341	SICKLE	Vietnam
+595	anvil	Tools	Tools	1648	ANVIL	Vietnam
+596	chisel	Tools	Tools	1979	CHISEL	Vietnam
+597	peg	Tools	Tools	361	PEG	Vietnam
+598	pot	Tools	Tools	1462	POT	Vietnam
+599	coop	Town	Tools			Vietnam
+600	firewood	Town	Tools	10	FIREWOOD	Vietnam
+601	boat	Town	Town	1844	BOAT	
+602	village	Town	Town	930	VILLAGE	
+603	road, path	Home	Town	2457	PATH OR ROAD	Laos
+604	bridge	Town	Town	1011	BRIDGE	Vietnam
+605	dock, boat	Town	Town			Vietnam
+606	grave	Town	Town	1773	GRAVE	Vietnam
+607	paddy	Town	Town	140	PADDY FIELD	Vietnam
+608	plot dry	Town	Town			Vietnam
+609	wet field	Town	Town	140	PADDY FIELD	Vietnam
+610	road	Town	Town	2457	PATH OR ROAD	Vietnam
+611	well (water)	Town	Town	954	WELL	Vietnam
+612	to walk	Verbs	Verbs	1443	WALK	
+613	to wait	Verbs	Verbs	1590	WAIT (FOR)	
+614	to tell	Verbs	Verbs	1711	TELL	
+615	to swim	Verbs	Verbs	1439	SWIM	
+616	to stir	Verbs	Verbs	696	STIR	
+617	to steam	Verbs	Verbs	2067	STEAM (VERB)	
+618	to steal	Verbs	Verbs	713	STEAL	
+619	to stand	Verbs	Verbs	1442	STAND	
+620	to smoke	Verbs	Verbs	1689	SMOKE (INHALE)	
+621	to sleep	Verbs	Verbs	1585	SLEEP	
+622	to sit	Verbs	Verbs	1416	SIT	
+623	to sell	Verbs	Verbs	1571	SELL	
+624	to see	Verbs	Verbs	1409	SEE	
+625	to roast	Verbs	Verbs	1962	ROAST (SOMETHING)	
+626	to return	Verbs	Verbs	581	COME BACK	
+627	to pull	Verbs	Verbs	1455	PULL	
+628	to know	Verbs	Verbs	3626	KNOW	
+629	to hear	Verbs	Verbs	1408	HEAR	
+630	to give	Verbs	Verbs	1447	GIVE	
+631	to forget	Verbs	Verbs	1523	FORGET	
+632	to fly	Verbs	Verbs	1441	FLY (MOVE THROUGH AIR)	
+633	to eat	Verbs	Verbs	1336	EAT	
+634	to drink	Verbs	Verbs	1401	DRINK	
+635	to dip	Verbs	Verbs	3697	DIP	
+636	to die	Verbs	Verbs	1494	DIE	
+637	to come	Verbs	Verbs	1446	COME	
+638	to buy	Verbs	Verbs	1869	BUY	
+639	to blow	Verbs	Verbs	176	BLOW (WITH MOUTH)	
+640	to bite	Verbs	Verbs	1403	BITE	
+641	to answer	Verbs	Verbs	1275	ANSWER	
+642	to bake	Plants, Food	Verbs	183	BAKE	Laos
+643	to taste	Plants, Food	Verbs	21	TASTE (SOMETHING)	Laos
+644	to set the table	Plants, Food	Verbs			Laos
+645	to grow	Plants, Food	Verbs	479	GROW	Laos
+646	to sprout	Plants, Food	Verbs	2076	SPROUT (VERB)	Laos
+647	to ripen	Plants, Food	Verbs	179	RIPEN	Laos
+648	to wither	Plants, Food	Verbs			Laos
+649	to decay	Plants, Food	Verbs	2907	ROT	Laos
+650	to bark	Animals	Verbs	1206	BARKING	Laos
+651	to melt	Nature	Verbs	2334	MELT	Laos
+652	to weave ( cloth )	Home	Verbs	133	WEAVE	Laos
+653	to dye ( cloth )	Home	Verbs	157	DYE	Laos
+654	to sew	Home	Verbs	1457	SEW	Laos
+655	to move	Home	Verbs	765	MOVE	Laos
+656	to sharpen a knife	Home	Verbs	251	SHARPEN (SOMETHING)	Laos
+657	to pierce	Home	Verbs	398	PIERCE	Laos
+658	to hammer	Home	Verbs	3115	HAMMER (SOMETHING)	Laos
+659	to roll	Home	Verbs	827	ROLL	Laos
+660	smell	Verbs	Verbs	1586	SMELL (PERCEIVE)	Laos
+661	to wink	Verbs	Verbs	1655	BLINK	Laos
+662	to weep	Verbs	Verbs	1839	CRY	Laos
+663	to swallow	Verbs	Verbs	897	SWALLOW	Laos
+664	to be hungry	Verbs	Verbs	1533	BE HUNGRY	Laos
+665	to be full	Verbs	Verbs	1429	FULL	Laos
+666	to be thirsty	Verbs	Verbs	3474	BE THIRSTY	Laos
+667	to be drunk	Verbs	Verbs	1463	DRUNK	Laos
+668	to vomit	Verbs	Verbs	1278	VOMIT	Laos
+669	to spit	Verbs	Verbs	1440	SPIT	Laos
+670	to cough	Verbs	Verbs	879	COUGH	Laos
+671	to sneeze	Verbs	Verbs	1621	SNEEZE	Laos
+672	to yawn	Verbs	Verbs	1028	YAWN	Laos
+673	to breathe	Verbs	Verbs	1407	BREATHE	Laos
+674	to suck	Verbs	Verbs	1421	SUCK	Laos
+675	to lick	Verbs	Verbs	319	LICK	Laos
+676	to smile	Verbs	Verbs	1451	SMILE	Laos
+677	to laugh	Verbs	Verbs	1355	LAUGH	Laos
+678	to speak	Verbs	Verbs	1623	SPEAK	Laos
+679	to shout	Verbs	Verbs	715	SHOUT	Laos
+680	to lie, fib	Verbs	Verbs	601	LIE (MISLEAD)	Laos
+681	to sing	Verbs	Verbs	1261	SING	Laos
+682	to think	Verbs	Verbs	2271	THINK	Laos
+683	to love	Verbs	Verbs	923	LOVE	Laos
+684	to hate	Verbs	Verbs	1607	HATE	Laos
+685	to count	Verbs	Verbs	1420	COUNT	Laos
+686	to be afraid	Verbs	Verbs	1419	FEAR (BE AFRAID)	Laos
+687	to be angry	Verbs	Verbs	2223	BE ANGRY	Laos
+688	to snore	Verbs	Verbs	1983	SNORE	Laos
+689	to dream	Verbs	Verbs	1920	DREAM (SOMETHING)	Laos
+690	to itch	Verbs	Verbs	148	ITCH	Laos
+691	to scratch	Verbs	Verbs	1436	SCRATCH	Laos
+692	to shiver	Verbs	Verbs	52	SHIVER	Laos
+693	ghost	Verbs	Verbs	1175	GHOST	Laos
+694	to kneel	Verbs	Verbs	66	KNEEL	Laos
+695	to crawl	Verbs	Verbs	96	CRAWL	Laos
+696	to enter	Verbs	Verbs	749	ENTER	Laos
+697	to push	Verbs	Verbs	1452	PUSH	Laos
+698	to kick	Verbs	Verbs	1135	KICK	Laos
+699	to throw	Verbs	Verbs	1456	THROW	Laos
+700	to fall	Verbs	Verbs	1280	FALL	Laos
+701	to tie	Verbs	Verbs	1917	TIE	Laos
+702	to wipe	Verbs	Verbs	1454	WIPE	Laos
+703	to hit	Verbs	Verbs	1433	HIT	Laos
+704	to split	Verbs	Verbs	1437	SPLIT	Laos
+705	to cut (hair)	Verbs	Verbs	2155	CUT (WITH SCISSORS)	Laos
+706	to stab	Verbs	Verbs	1434	STAB	Laos
+707	to grind	Verbs	Verbs	1033	GRIND	Laos
+708	to plant	Verbs	Verbs	1486	PLANT (SOMETHING)	Laos
+709	to dig	Verbs	Verbs	1418	DIG	Laos
+710	to bury (a corpse)	Verbs	Verbs	1719	BURY	Laos
+711	to dry (sth.)	Verbs	Verbs	1398	DRY	Laos
+712	to pound (rice)	Verbs	Verbs	354	POUND	Laos
+713	to boil (sth.)	Verbs	Verbs	2492	BOIL (SOMETHING)	Laos
+714	to burn	Verbs	Verbs	2102	BURN	Laos
+715	to work	Verbs	Verbs	1086	WORK (ACTIVITY)	Laos
+716	to play	Verbs	Verbs	1413	PLAY	Laos
+717	to dance	Verbs	Verbs	1879	DANCE	Laos
+718	to shoot	Verbs	Verbs	1172	SHOOT	Laos
+719	to hunt	Verbs	Verbs	1435	HUNT	Laos
+720	to fight	Verbs	Verbs	1423	FIGHT	Laos
+721	to exchange	Verbs	Verbs	2509	EXCHANGE	Laos
+722	to disappear	Verbs	Verbs	485	DISAPPEAR	Laos
+723	to flow	Nature	Verbs	2003	FLOW	Laos
+724	to float	Nature	Verbs	1574	FLOAT	Laos
+725	to sink	Nature	Verbs	1088	SINK (DESCEND)	Laos
+726	to twinkle	Nature	Verbs	2889	TWINKLE	Laos
+727	to cook (rice)	Plants, Food	Verbs	1100	COOK (SOMETHING)	Laos
+728	to wash rice	Plants, Food	Verbs	1453	WASH	Laos
+729	to cut into pieces	Plants, Food	Verbs	2149	CHOP (INTO PIECES)	Laos
+730	to cut into slices	Plants, Food	Verbs			Laos
+731	to chop/mince	Plants, Food	Verbs	2149	CHOP (INTO PIECES)	Laos
+732	to knead (a dough)	Plants, Food	Verbs	274	KNEAD	Laos
+733	to pound (garlic)	Plants, Food	Verbs	354	POUND	Laos
+734	to put in (ingredients)	Plants, Food	Verbs	998	PUT	Laos
+735	to pour over	Plants, Food	Verbs	1487	POUR	Laos
+736	to squeeze	Plants, Food	Verbs	1414	SQUEEZE	Laos
+737	to crack an egg	Plants, Food	Verbs			Laos
+738	to boil	Plants, Food	Verbs	792	BOIL (OF LIQUID)	Laos
+739	to stir fry, to fry	Plants, Food	Verbs	2162	STIR FRY	Laos
+740	to fry in fat/oil	Plants, Food	Verbs	991	FRY	Laos
+741	to wash	Verbs	Verbs	1453	WASH	Vietnam
+742	to write	Verbs	Verbs	1672	WRITE	Vietnam
+743	to tear	Verbs	Verbs	1735	TEAR (SHRED)	Vietnam
+744	to talk	Verbs	Verbs	2708	TALK	Vietnam
+745	to stoke	Verbs	Verbs			Vietnam
+746	to soak	Verbs	Verbs	2069	SOAK (VERB)	Vietnam
+747	to smell	Verbs	Verbs	2124	SMELL	Vietnam
+748	to slash	Verbs	Verbs			Vietnam
+749	to set trap	Verbs	Verbs			Vietnam
+750	to scrape	Verbs	Verbs	1767	SCRAPE	Vietnam
+751	to scold	Verbs	Verbs	299	SCOLD	Vietnam
+752	to run	Verbs	Verbs	1519	RUN	Vietnam
+753	to roar	Verbs	Verbs	2876	ROAR (OF SEA)	Vietnam
+754	to ride horse	Verbs	Verbs	367	RIDE	Vietnam
+755	to rest	Verbs	Verbs	168	REST	Vietnam
+756	to remember	Verbs	Verbs	707	REMEMBER	Vietnam
+757	to pull gr	Verbs	Verbs	1455	PULL	Vietnam
+758	to pat	Verbs	Verbs	2133	STRIKE OR BEAT	Vietnam
+759	to open mr	Verbs	Verbs			Vietnam
+760	to mow	Verbs	Verbs	190	MOW	Vietnam
+761	to marry w	Verbs	Verbs			Vietnam
+762	to marry d	Verbs	Verbs			Vietnam
+763	to like	Verbs	Verbs	1117	LIKE	Vietnam
+764	to kill	Verbs	Verbs	1417	KILL	Vietnam
+765	to hone kn	Verbs	Verbs			Vietnam
+766	to hide	Verbs	Verbs	2486	HIDE	Vietnam
+767	to go	Verbs	Verbs	695	GO	Vietnam
+768	to give birth	Verbs	Verbs	1195	GIVE BIRTH	Vietnam
+769	to fry	Verbs	Verbs	991	FRY	Vietnam
+770	to fear	Verbs	Verbs	1419	FEAR (BE AFRAID)	Vietnam
+771	to fall down	Verbs	Verbs	1280	FALL	Vietnam
+772	to explode	Verbs	Verbs			Vietnam
+773	to sun dry	Verbs	Verbs	3364	DRY IN SUN	Vietnam
+774	to draw water	Verbs	Verbs	1911	DRAW (WATER)	Vietnam
+775	to drain	Verbs	Verbs			Vietnam
+776	to cut w/ scissors	Verbs	Verbs	2155	CUT (WITH SCISSORS)	Vietnam
+777	to cut w/ knife	Verbs	Verbs	2156	CUT (WITH KNIFE)	Vietnam
+778	to crow	Verbs	Verbs	2074	CROW (VERB)	Vietnam
+779	to cook	Verbs	Verbs	1100	COOK (SOMETHING)	Vietnam
+780	to chew	Verbs	Verbs	321	CHEW	Vietnam
+781	to chase	Verbs	Verbs	1047	PURSUE	Vietnam
+782	to carry	Verbs	Verbs	700	CARRY	Vietnam
+783	to be able	Verbs	Verbs	972	BE ABLE	Vietnam
+784	to bathe	Verbs	Verbs	138	BATHE	Vietnam
+785	to dark	Verbs	Verbs	706	DARK	Vietnam
+786	to arrive	Verbs	Verbs	1387	ARRIVE	Vietnam
+787	to arise	Verbs	Verbs			Vietnam
+788	to accept	Pronouns	Verbs	694	GET	Vietnam
