@@ -52,13 +52,7 @@ class Dataset(BaseDataset):
                 )
                 idx=concept.number+'_'+slug(concept.english)
                 concepts_dict[concept.english]=idx
-        # concepts = args.writer.add_concepts(
-        #     id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
-        # concepts_dict = {}
-        # for concept in self.concepts:
-        #     idx = concept['ID']+'_'+slug(concept['GLOSS'])
-        #     concepts_dict[concept['GLOSS']]=idx
-        # create forms
+        # add lexemes
         for idx in progressbar(wl, desc = 'cldfify the data'):
             cogid = idx
             if not re.search('[ -]', wl[idx, "ipa"]):
