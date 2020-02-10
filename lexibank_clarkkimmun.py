@@ -42,13 +42,22 @@ class Dataset(BaseDataset):
         languages_dict = {}
         for lang in self.languages:
             languages_dict[lang['Name']]=lang['ID']
-        # make concept dictionary
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
         concepts_dict = {}
-        for concept in self.concepts:
-            idx = concept['ID']+'_'+slug(concept['GLOSS'])
-            concepts_dict[concept['GLOSS']]=idx
+        for clist in ['Clark-2008-503','Clark-2008-441']:
+            for concept in self.concepticon.conceptlists[clist].concepts.values():
+                args.writer.add_concept(ID="%s_%s" % (concept.number, slug(concept.english)),
+                Name=concept.gloss,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss
+                )
+                idx=concept.number+'_'+slug(concept.english)
+                concepts_dict[concept.english]=idx
+        # concepts = args.writer.add_concepts(
+        #     id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
+        # concepts_dict = {}
+        # for concept in self.concepts:
+        #     idx = concept['ID']+'_'+slug(concept['GLOSS'])
+        #     concepts_dict[concept['GLOSS']]=idx
         # create forms
         for idx in progressbar(wl, desc = 'cldfify the data'):
             cogid = idx
