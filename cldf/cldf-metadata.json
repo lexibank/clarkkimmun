@@ -12,19 +12,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "1572f72"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/clld/concepticon-data",
-            "dc:created": "v2.2.1a-91-gebe5d15"
+            "dc:created": "c040084"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.1-5-g5f99100"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/MacyL/concepticon-data",
+            "dc:created": "v2.2.1a-153-g10f305d"
         },
         {
             "rdf:type": "prov:Entity",
