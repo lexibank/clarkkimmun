@@ -46,7 +46,7 @@ class Dataset(BaseDataset):
         for clist in ['Clark-2008-503','Clark-2008-441']:
             for concept in self.concepticon.conceptlists[clist].concepts.values():
                 args.writer.add_concept(ID="%s_%s" % (concept.number, slug(concept.english)),
-                Name=concept.gloss,
+                Name=concept.english,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss
                 )
