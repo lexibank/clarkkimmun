@@ -4,5 +4,9 @@
     "url": "https://www.semanticscholar.org/paper/A-PHONOLOGICAL-ANALYSIS-AND-COMPARISON-OF-TWO-KIM-Clark/180f13bdb8dc14f1259201df298baf734b0ab381",
     "license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "id": "clarkkimmun",
-    "description": null
+    "description": null,
+    "conceptlist":[
+        "Clark-2008-503",
+        "Clark-2008-441"
+    ]
 }
