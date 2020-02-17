@@ -93,7 +93,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 141_tobake,to bake,183,BAKE
 142_totaste,to taste,21,TASTE (SOMETHING)
 143_tosetthetable,to set the table,,
-144_cover,cover,,
+144_cover,cover,2319,"LID (COVER, CAP)"
 147_dish,dish,481,DISH
 150_bottle,bottle,1321,BOTTLE
 151_cup,cup,476,CUP
@@ -169,7 +169,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 294_tosew,to sew,1457,SEW
 297_ringfinger,ring (finger),1374,RING
 298_papercord,"paper, cord",648,PAPER
-299_potcooking,pot (cooking-),1462,POT
+299_potcooking,pot (cooking-),3653,COOKING POT
 300_spoon,spoon,1378,SPOON
 303_smoke,smoke,778,SMOKE (EXHAUST)
 304_candle,candle,1273,CANDLE
@@ -572,7 +572,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 250_hoe,hoe,284,HOE
 251_knife,knife,1352,KNIFE
 252_masher,masher,,
-253_plane,plane,1597,AIRPLANE
+253_plane,plane,3408,PLANE (TOOL)
 254_plow,plow,2154,PLOUGH (INSTRUMENT)
 255_carryingpole,carrying pole,3432,SHOULDER POLE
 256_rope,rope,1218,ROPE
@@ -594,7 +594,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 276_paddy,paddy,140,PADDY FIELD
 277_pillow,pillow,1044,PILLOW
 278_plotdry,plot dry,,
-279_wetfield,wet field,140,PADDY FIELD
+279_wetfield,wet field,,
 280_road,road,2457,PATH OR ROAD
 281_stairsladder,stairs/ladder,2689,LADDER OR STAIRS
 282_village,village,930,VILLAGE
@@ -674,7 +674,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 356_toscold,to scold,299,SCOLD
 357_torun,to run,1519,RUN
 358_toroast,to roast,1962,ROAST (SOMETHING)
-359_toroar,to roar,2876,ROAR (OF SEA)
+359_toroar,to roar,,
 360_toridehorse,to ride horse,367,RIDE
 361_toreturn,to return,581,COME BACK
 362_torest,to rest,168,REST
@@ -684,7 +684,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 366_topat,to pat,,
 367_toopenmr,to open mr,,
 368_tomow,to mow,190,MOW
-369_tomarryw,to marry w,,
+369_tomarryw,to marry w,2163,MARRY (AS WOMAN)
 370_tomarryd,to marry d,,
 371_tolike,to like,1117,LIKE
 372_toknow,to know,3626,KNOW

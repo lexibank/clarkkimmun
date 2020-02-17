@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University.",
+    "dc:bibliographicCitation": "Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University:: Chiang Mai.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://www.semanticscholar.org/paper/A-PHONOLOGICAL-ANALYSIS-AND-COMPARISON-OF-TWO-KIM-Clark/180f13bdb8dc14f1259201df298baf734b0ab381",
     "dc:isVersionOf": null,
@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "7a8abcb"
+            "dc:created": "e721fe4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -25,15 +25,15 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-5-g5f99100"
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/clld/concepticon-data",
+            "dc:created": "v2.2.1a-170-ge5f8de2"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/MacyL/concepticon-data",
-            "dc:created": "v2.2.1a-153-g10f305d"
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-5-g5f99100"
         }
     ],
     "prov:wasGeneratedBy": [
