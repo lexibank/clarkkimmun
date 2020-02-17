@@ -43,8 +43,8 @@ class Dataset(BaseDataset):
         for lang in self.languages:
             languages_dict[lang['Name']]=lang['ID']
         concepts_dict = {}
-        for clist in ['Clark-2008-503','Clark-2008-441']:
-            for concept in self.concepticon.conceptlists[clist].concepts.values():
+        for conceptlist in self.conceptlists:
+            for concept in conceptlist.concepts.values():
                 args.writer.add_concept(ID="%s_%s" % (concept.number, slug(concept.english)),
                 Name=concept.english,
                 Concepticon_ID=concept.concepticon_id,
