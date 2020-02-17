@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University.
+> Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University:: Chiang Mai.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
