@@ -42,14 +42,17 @@ class Dataset(BaseDataset):
         languages_dict = {}
         for lang in self.languages:
             languages_dict[lang['Name']]=lang['ID']
-        # make concept dictionary
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
         concepts_dict = {}
-        for concept in self.concepts:
-            idx = concept['ID']+'_'+slug(concept['GLOSS'])
-            concepts_dict[concept['GLOSS']]=idx
-        # create forms
+        for conceptlist in self.conceptlists:
+            for concept in conceptlist.concepts.values():
+                args.writer.add_concept(ID="%s_%s" % (concept.number, slug(concept.english)),
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss
+                )
+                idx=concept.number+'_'+slug(concept.english)
+                concepts_dict[concept.english]=idx
+        # add lexemes
         for idx in progressbar(wl, desc = 'cldfify the data'):
             cogid = idx
             if not re.search('[ -]', wl[idx, "ipa"]):
