@@ -1,8 +1,8 @@
-# A Phonological Analysis and Comparison of Two Kim Mun Varieties in Laos and Vietnam
+# CLDF dataset derived from Clark's "Phonological Analysis and Comparison of Two Kim Mun Varieties" from 2008
 
 Cite the source dataset as
 
-> Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University:: Chiang Mai.
+> Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University: Chiang Mai.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 

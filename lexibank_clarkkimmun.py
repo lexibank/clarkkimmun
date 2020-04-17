@@ -4,6 +4,7 @@ import re
 import attr
 import lingpy
 from clldutils.misc import slug
+
 from pylexibank import Concept, Language
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.forms import FormSpec
@@ -29,8 +30,6 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
-
-        >>> args.writer.objects['LanguageTable'].append(...)
         """
         # add source
         args.writer.add_sources()
@@ -58,6 +57,7 @@ class Dataset(BaseDataset):
             if not re.search('[ -]', wl[idx, "ipa"]):
                 if wl[idx, "concept"]:
                     for lex in args.writer.add_forms_from_value(
+                        Local_ID=idx,
                         Language_ID=languages_dict[wl[idx, "doculect"]],
                         Parameter_ID=concepts_dict[wl[idx, "concept"]],
                         Value=wl[idx, "ipa"],

@@ -2,13 +2,13 @@ from setuptools import setup
 
 
 setup(
-    name='cldfbench_clarkkimmun',
-    py_modules=['cldfbench_clarkkimmun'],
+    name='lexibank_clarkkimmun',
+    py_modules=['lexibank_clarkkimmun'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        'cldfbench.dataset': [
-            'clarkkimmun=cldfbench_clarkkimmun:Dataset',
+        'lexibank.dataset': [
+            'clarkkimmun=lexibank_clarkkimmun:Dataset',
         ],
         'cldfbench.commands':[
             'clarkkimmun=clarkkimmuncommands',

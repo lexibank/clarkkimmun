@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University:: Chiang Mai.",
+    "dc:bibliographicCitation": "Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University: Chiang Mai.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Clark-2008-503",
@@ -12,38 +12,38 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "A Phonological Analysis and Comparison of Two Kim Mun Varieties in Laos and Vietnam",
+    "dc:title": "CLDF dataset derived from Clark's \"Phonological Analysis and Comparison of Two Kim Mun Varieties\" from 2008",
     "dcat:accessURL": "https://github.com/lexibank/clarkkimmun",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/clarkkimmun",
-            "dc:created": "e721fe4"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/clld/concepticon-data",
-            "dc:created": "v2.2.1a-170-ge5f8de2"
+            "dc:created": "e3fe96e"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-5-g5f99100"
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.3.0-53-g324a045"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -119,6 +119,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
