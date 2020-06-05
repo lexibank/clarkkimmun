@@ -1,17 +1,17 @@
-Language_ID	Name	Tone	Tone_category
-KimMunLaocai	Lao Cai, Vietnam	44	High
-KimMunLaocai	Lao Cai, Vietnam	33	Mid
-KimMunLaocai	Lao Cai, Vietnam	11	Low
-KimMunLaocai	Lao Cai, Vietnam	52	High Falling
-KimMunLaocai	Lao Cai, Vietnam	31	Mid Falling
-KimMunLaocai	Lao Cai, Vietnam	35	Miid Rising
-KimMunLaocai	Lao Cai, Vietnam	341	Mid Rising-Falling
-KimMunLaocai	Lao Cai, Vietnam	214	Low Falling-Rising
-KimMunLaos	Luang Nam Tha, Laos	33	Mid
-KimMunLaos	Luang Nam Tha, Laos	11	Low
-KimMunLaos	Luang Nam Tha, Laos	53	High Falling
-KimMunLaos	Luang Nam Tha, Laos	31	Mid Falling
-KimMunLaos	Luang Nam Tha, Laos	21	Low Falling
-KimMunLaos	Luang Nam Tha, Laos	35	Mid Rising
-KimMunLaos	Luang Nam Tha, Laos	13	Low Rising
-KimMunLaos	Luang Nam Tha, Laos	341	Mid Rising-Falling
+Language_ID	Name	Tone	Tone description	Tone_category	Remark
+KimMunLaocai	Lao Cai, Vietnam	44	High	陰去.陽入	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	33	Mid	陽平	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	11	Low	陰平	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	52	High Falling	陽去	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	31	Mid Falling	陽上	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	35	Miid Rising		Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	341	Mid Rising-Falling	陰上	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	214	Low Falling-Rising	陰上	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	33	Mid	陽平	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	11	Low	陰平	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	53	High Falling	陽去	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	31	Mid Falling	陽上	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	21	Low Falling	陽上	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	35	Mid Rising		Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	13	Low Rising	陰平	Hainan (Shintani 1990) p33
+KimMunLaos	Luang Nam Tha, Laos	341	Mid Rising-Falling	陰上	Hainan (Shintani 1990) p33
