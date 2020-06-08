@@ -1,17 +1,17 @@
 Language_ID	Name	Tone	Tone description	Tone_category	Remark
-KimMunLaocai	Lao Cai, Vietnam	44	High	陰去.陽入	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	33	Mid	陽平	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	11	Low	陰平	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	52	High Falling	陽去	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	31	Mid Falling	陽上	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	35	Miid Rising		Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	341	Mid Rising-Falling	陰上	Hainan (Shintani 1990) p33
-KimMunLaocai	Lao Cai, Vietnam	214	Low Falling-Rising	陰上	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	33	Mid	陽平	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	11	Low	陰平	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	53	High Falling	陽去	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	31	Mid Falling	陽上	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	21	Low Falling	陽上	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	35	Mid Rising		Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	13	Low Rising	陰平	Hainan (Shintani 1990) p33
-KimMunLaos	Luang Nam Tha, Laos	341	Mid Rising-Falling	陰上	Hainan (Shintani 1990) p33
+KimMunLaocai	Lao Cai, Vietnam	44	High	3	‘dog’ klu³ (Ratliff 2010), klu⁴⁴ (Clark)
+KimMunLaocai	Lao Cai, Vietnam	33	Mid	6 or 3	‘bird’ nɔ⁶ (Ratliff 2010), nɔ³³ (Clark) ‘ant’ sɔu³ (Ratliff 2010),  θɐw³³ (Clark)
+KimMunLaocai	Lao Cai, Vietnam	11	Low	2	‘buffalo’ ŋɔːŋ² (Ratliff 2010), ŋɔŋ¹¹ (clark)
+KimMunLaocai	Lao Cai, Vietnam	52	High Falling	7’ or 1’	‘centipede’ tθap⁷’ θap⁵² (Clark)
+KimMunLaocai	Lao Cai, Vietnam	31	Mid Falling	4 or 7	‘pig’ tuŋ⁴ (Ratliff 2010), tuŋ³¹ (Clark), ‘finger’ dɔ⁷ (Ratliff 2010), pu.dɔ³¹ (Clark)
+KimMunLaocai	Lao Cai, Vietnam	35	Miid Rising	5	‘name’ bu⁵ (Ratliff 2010), bu³⁵ (Clark)
+KimMunLaocai	Lao Cai, Vietnam	341	Mid Rising-Falling		
+KimMunLaocai	Lao Cai, Vietnam	214	Low Falling-Rising	1	‘stone’ gjau¹ (Ratliff 2010),  gjaw²¹⁴ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	33	Mid	3	‘thorn’ ȡim³ (Ratliff 2010), ȡim³³ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	11	Low	3	‘bamboo’ lɔu³ (Ratliff 2010) , la:w¹¹ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	53	High Falling	1	‘mushroom’ sɔu¹ (Ratliff 2010), so⁵³ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	31	Mid Falling	2	‘leaf’ nɔːm² (Ratliff 2010), nɔm³¹ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	21	Low Falling	6	‘rain’ buŋ⁶ (Ratliff 2010), buŋ²¹ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	35	Mid Rising	1’	‘sun’ nɔːi¹’ (Ratliff 2010), mə.nɔj³⁵ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	13	Low Rising	5	‘to grow’ sɔŋ⁵ (Ratliff 2010), sɔŋ¹³ (Clark)
+KimMunLaos	Luang Nam Tha, Laos	341	Mid Rising-Falling	4	pig’ tuŋ⁴ (Ratliff 2010), tuŋ³⁴¹  (Clark)
