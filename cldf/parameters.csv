@@ -3,7 +3,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 4_thesunsets,the sun sets,2295,SUNSET
 6_star,star,1430,STAR
 7_light,light,630,LIGHT (RADIATION)
-8_shadow,shadow,2275,SHADOW
+8_shadow,shadow,1388,SHADE
 10_bright,bright,679,BRIGHT
 11_dark,dark,706,DARK
 14_rainbow,rainbow,1733,RAINBOW
@@ -176,7 +176,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 305_tomove,to move,765,MOVE
 306_coffin,coffin,2011,COFFIN
 307_tools,tools,1361,TOOL
-308_scissors,scissors,1328,SCISSORS
+308_scissors,scissors,356,SHEARS
 310_tosharpenaknife,to sharpen a knife,251,SHARPEN (SOMETHING)
 311_topierce,to pierce,398,PIERCE
 313_tohammer,to hammer,3115,HAMMER (SOMETHING)
@@ -431,7 +431,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 100_skin,skin,763,SKIN
 101_tail,tail,1220,TAIL
 102_tears,tears,1651,TEAR (OF EYE)
-103_thigh,thigh,800,THIGH
+103_thigh,thigh,471,UPPER LEG (THIGH)
 104_toe,toe,1389,TOE
 105_tongue,tongue,1205,TONGUE
 106_tusk,tusk,3280,TUSK

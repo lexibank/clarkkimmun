@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Clark's \"Phonological Analysis and Comparison of Two Kim Mun Varieties\" from 2008",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Clark, E. R."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Mei-Shin Wu",
+            "type": "Other"
+        },
+        {
+            "name": "Clark, E. R.",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University: Chiang Mai.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

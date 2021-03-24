@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Clark, E. R. (2008). A phonological analysis and comparison of two Kim Mun varieties in Laos and Vietnam. Payap University: Chiang Mai.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://www.semanticscholar.org/paper/A-PHONOLOGICAL-ANALYSIS-AND-COMPARISON-OF-TWO-KIM-Clark/180f13bdb8dc14f1259201df298baf734b0ab381
 
@@ -33,3 +33,13 @@ Conceptlists in Concepticon:
 - **Tokens:** 5,740
 - **Segments:** 51 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
 - **Inventory size (avg):** 45.00
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Other 
+Mei-Shin Wu | | maintainer | Other
+Clark, E. R. | | data collector | DataCollector, Author
+
+

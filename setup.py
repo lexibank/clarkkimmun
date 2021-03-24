@@ -15,7 +15,7 @@ setup(
         ]
     },
     install_requires=[
-        'cldfbench',
+        'pylexibank>=3.0',
     ],
     extras_require={
         'test': [
