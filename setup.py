@@ -16,6 +16,7 @@ setup(
     },
     install_requires=[
         'pylexibank>=3.0',
+        'sinopy',
     ],
     extras_require={
         'test': [
