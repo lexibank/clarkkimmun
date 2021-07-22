@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 89_pineapple,pineapple,2440,PINEAPPLE
 90_watermelon,watermelon,2766,WATERMELON
 91_apple,apple,1320,APPLE
-93_peanut,peanut,2364,PEANUT
+93_peanut,peanut,595,GROUNDNUT (PEANUT)
 94_ginger,ginger,2500,GINGER
 96_ricehusk,rice husk,2501,RICE HUSK
 97_sweetpotato,sweet potato,159,SWEET POTATO
@@ -214,7 +214,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 357_tobeangry,to be angry,2223,BE ANGRY
 359_tosnore,to snore,1983,SNORE
 360_todream,to dream,1920,DREAM (SOMETHING)
-362_toitch,to itch,148,ITCH
+362_toitch,to itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
 363_toscratch,to scratch,1436,SCRATCH
 364_toshiver,to shiver,52,SHIVER
 366_ghost,ghost,1175,GHOST
@@ -674,7 +674,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 356_toscold,to scold,299,SCOLD
 357_torun,to run,1519,RUN
 358_toroast,to roast,1962,ROAST (SOMETHING)
-359_toroar,to roar,,
+359_toroar,to roar,3896,ROAR
 360_toridehorse,to ride horse,367,RIDE
 361_toreturn,to return,581,COME BACK
 362_torest,to rest,168,REST
