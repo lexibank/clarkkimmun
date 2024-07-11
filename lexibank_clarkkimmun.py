@@ -1,24 +1,27 @@
-from collections import OrderedDict
 import pathlib
 import re
 import attr
 import lingpy
 from clldutils.misc import slug
 
-from pylexibank import Concept, Language
+from pylexibank import Language
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.forms import FormSpec
 from pylexibank.util import progressbar
+
 
 @attr.s
 class CustomLanguage(Language):
     Country = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
 
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "clarkkimmun"
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     form_spec = FormSpec(
         missing_data=[''],
         separators=";/,",
@@ -37,22 +40,23 @@ class Dataset(BaseDataset):
         mergedfile = self.raw_dir / 'KimMun_merged.tsv'
         wl = lingpy.Wordlist(mergedfile.as_posix())
         # add languages
-        languages = args.writer.add_languages(lookup_factory="Name")
+        args.writer.add_languages(lookup_factory="Name")
         languages_dict = {}
         for lang in self.languages:
-            languages_dict[lang['Name']]=lang['ID']
+            languages_dict[lang['Name']] = lang['ID']
         concepts_dict = {}
         for conceptlist in self.conceptlists:
             for concept in conceptlist.concepts.values():
-                args.writer.add_concept(ID="%s_%s" % (concept.number, slug(concept.english)),
-                Name=concept.english,
-                Concepticon_ID=concept.concepticon_id,
-                Concepticon_Gloss=concept.concepticon_gloss
-                )
-                idx=concept.number+'_'+slug(concept.english)
-                concepts_dict[concept.english]=idx
+                args.writer.add_concept(
+                    ID="%s_%s" % (concept.number, slug(concept.english)),
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
+                    )
+                idx = concept.number+'_'+slug(concept.english)
+                concepts_dict[concept.english] = idx
         # add lexemes
-        for idx in progressbar(wl, desc = 'cldfify the data'):
+        for idx in progressbar(wl, desc='cldfify the data'):
             cogid = idx
             if not re.search('[ -]', wl[idx, "ipa"]):
                 if wl[idx, "concept"]:
@@ -63,8 +67,8 @@ class Dataset(BaseDataset):
                         Value=wl[idx, "ipa"],
                         Source='Clark2008'
                       ):
-                # # add cognate
+                        # add cognate
                         args.writer.add_cognate(
                             lexeme=lex,
-                            Cognateset_ID = cogid
+                            Cognateset_ID=cogid
                             )
