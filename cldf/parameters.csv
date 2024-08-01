@@ -119,7 +119,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 187_duck,duck,1360,DUCK
 190_houselizard,house lizard,632,LIZARD
 192_crocodile,crocodile,1857,CROCODILE
-194_tadpole,tadpole,,
+194_tadpole,tadpole,3979,TADPOLE
 196_spiderweb,spider web,1065,SPIDER WEB
 197_lousehead,louse (head),310,HEAD LOUSE
 198_termite,termite,883,TERMITE
@@ -700,7 +700,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 382_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
 383_tofear,to fear,1419,FEAR (BE AFRAID)
 384_tofalldown,to fall down,1280,FALL
-385_toexplode,to explode,,
+385_toexplode,to explode,3976,EXPLODE
 386_toeat,to eat,1336,EAT
 387_tosundry,to sun dry,3364,DRY IN SUN
 388_todrink,to drink,1401,DRINK

@@ -30,8 +30,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 2
-- **Concepts:** 757
+- **Varieties:** 2 (linked to 1 different Glottocodes)
+- **Concepts:** 757 (linked to 636 different Concepticon concept sets)
 - **Lexemes:** 922
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -39,14 +39,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 5,740
-- **Segments:** 51 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
+- **Segments:** 51 (0 BIPA errors, 0 CLTS sound class errors, 51 CLTS modified)
 - **Inventory size (avg):** 45.00
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other 
+Johann-Mattis List | @LinguList | maintainer | Editor
 Mei-Shin Wu | | maintainer | Other
 Clark, E. R. | | data collector | DataCollector, Author
 
